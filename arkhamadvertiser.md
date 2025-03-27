@@ -16,6 +16,16 @@ As the dust settles, Mendoza and the other "vampires" were turned to ash, and La
 
 ---
 
+# LUCK
+
+Luck rolls may be called for by the Keeper when circumstances external to any investigator are in question, and also when determining the fickle hand of fate. If a skill or characteristic is applicable to a situation then it should be used rather than Luck. 
+
+If the Keeper calls for a Group Luck roll, the player whose investigator has the lowest Luck score, among those present in the scene, should make the roll. 
+
+IF something bad is deemed to happen to one member of the group, the Keeper can simply ask who has the lowest Luck score at that moment and havbe that individual suffer the unfortunate event. 
+
+---
+
 # USING LUCK
 
 ### Adjusting Skill or Characteristic Rolls
