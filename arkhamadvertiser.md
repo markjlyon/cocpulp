@@ -10,6 +10,10 @@ Unfortunately, Sadie Winchester, the meta-physical practitioner from New York, i
 
 As the dust settles, Mendoza and the other "vampires" were turned to ash, and Larkin, being gravely injured during the fight, seems to have vanished. 
 
+The survivors stayed at the pyramid to bury it, completely, hopefully ending the threat of *El Padre de los Gusados* it for all time. 
+
+During the month, Eleanor mentioned someone who may be able to help with other adventures, if the group was interested, a Mr. Green, Professor of Astrology at Miskatonic University.
+
 # Chapter 1:  Flight of the Scajaquada
 
 
