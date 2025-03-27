@@ -4,7 +4,9 @@ Augustus Larkin, and his "personal aid" Luis de Mendoza, sought out explorers/ar
 
 The group soon learns that not everything is as it seems, and the hints of the kharisiri "vampires" are running rampant through the local area and of an *El Padre de los Gusados* or "Father of Maggots" seems to slowly bubble to the top of the rumor mill. Are Vampires even real? 
 
-Confronting Larkin and Mendoza at a lost pyramid near Lake Titicaca, a fierce battle rages between the two groups. "Dear God, TOHIL, save us!" Unfortunately, Sadie Winchester, the meta-physical practitioner from New York, is lost to madness and kills herself, possibly keeping *El Padre de los Gusados* from inhabiting a host and freeing the "Father of Maggots" onto the world. 
+Confronting Larkin and Mendoza at a lost pyramid near Lake Titicaca, a fierce battle rages between the two groups. "Dear God, TOHIL, save us!" 
+
+Unfortunately, Sadie Winchester, the meta-physical practitioner from New York, is lost to madness and kills herself, possibly keeping *El Padre de los Gusados* from inhabiting a host and freeing the "Father of Maggots" onto the world. 
 
 As the dust settles, Mendoza and the other "vampires" were turned to ash, and Larkin, being gravely injured during the fight, seems to have vanished. 
 
