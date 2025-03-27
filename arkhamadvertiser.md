@@ -1,4 +1,4 @@
-# Chapter 1: Dark Schemes
+# Prologue: Dark Schemes
 
 Augustus Larkin, and his "personal aid" Luis de Mendoza, sought out explorers/archeologists/financiers for his expedetion to locate a lost civilization in Peru. The ragtag group met in Lima, and were introduced to Jackson Elias (AKA Jessie Hughs), a published writer out of New York City, and Assistant Professor Eleanor Butler, a history professor from Miskatonic University.
 
@@ -8,7 +8,7 @@ Confronting Larkin and Mendoza at a lost pyramid near Lake Titicaca, a fierce ba
 
 As the dust settles, Mendoza and the other "vampires" were turned to ash, and Larkin, being gravely injured during the fight, seems to have vanished. 
 
-# Chapter 2:  Flight of the Scajaquada
+# Chapter 1:  Flight of the Scajaquada
 
 
 
