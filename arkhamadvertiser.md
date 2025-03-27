@@ -71,3 +71,19 @@ Naturally, a hero's Luck score will vary throughout play, but may never exceed 9
 A critical success only arises from a natural dice roll of "01." Should Luck points be used to lower a roll to 01 the result is always an Extreme success, rather than a critical one. The only exception to this would be in combat where two opponents have tied, both scoring Extreme success, if one uses Luck to lower their ocmbat roll to"01" it means thay they beat their opponent's level of success, treat the result as an Extreme success though. 
 
 As with standard *Call of Cthulhu*, a naturally rolled critical success always means something beneficial has happened, determined by the Keeper and the situation at hand. Likewise, a natural fumble, or "100", means something bad has happened. Note thaty while Luck can be used to avoid the effects of a fumble or malfunction in combat, for non-combat skills a natural fumble cannot be avoided!
+
+# INTELLIGENCE ROLLS AND IDEA ROLLS
+
+An INT roll may be called for by the Keeper when a hero is attempting to solve an intellectual puzzle of some kind. By rolling equal to or below the hero's INT, the player will receive a solution from the Keeper. This might include solving a crossword puzzle or answering a riddle. 
+
+### Idea Roll
+
+An *Idea* roll is different to an INT roll, although made in the same manner by rolling equal to or below the hero's INT characteristic. An Idea roll is usually proposed by the playters when their investigators have become stuck at a point in the investigation; perhaps they have completely missed a vital clue, or just don't know wheat to do next, and so the game has been stalled. The outcome of the Idea roll will get the investigation back on track; however, the success or failure of the Idea roll determines whether the missed clue has been obtained rasily, or at some cost to the investigators.
+
+### Know Roll
+
+All people know bits of information about different topics. The *Know* roll represents what's stored in the brain's intellectual attic, calculated as the percentage chance that the investigator's education supplied the information. Roll equal to or under a character's EDU value to determine the success of a *Know* roll. 
+
+The investigator might know it is dangerous to pour water into sulfuric acid, without studying Science: Chemistry, or be able to remember the geography of Tibet, without a Navigate roll, or know how many legs arachnids have, and possess only one percentile of Biology. 
+
+Identification of present-day earthly languages is an excellent use for the *Know* roll. IF a specific skill is more aplicable to the situation, then it should be used rather than making a *Know* roll, of course, at the Keeper's discretion.
