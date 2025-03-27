@@ -15,8 +15,9 @@ As the dust settles, Mendoza and the other "vampires" were turned to ash, and La
 
 
 ---
+# RULES
 
-# LUCK
+## LUCK
 
 Luck rolls may be called for by the Keeper when circumstances external to any investigator are in question, and also when determining the fickle hand of fate. If a skill or characteristic is applicable to a situation then it should be used rather than Luck. 
 
@@ -26,7 +27,7 @@ IF something bad is deemed to happen to one member of the group, the Keeper can 
 
 ---
 
-# USING LUCK
+## USING LUCK
 
 ### Adjusting Skill or Characteristic Rolls
 
@@ -70,7 +71,7 @@ If a hero has 30+ Luck points remaining, all of these Luck points may be spent t
 
 ---
 
-# LUCK RECOVERY
+## LUCK RECOVERY
 
 At the start of each session of play, each player makes a Luck Recovery roll. This is rolled in the same way as for normal skill improvement. The player rolls 1d100 and if the roll is higher than their current Luck score they add 2d10+10 points to their Luck score. IF the roll is equal to or less than the hero's present Luck score, 1d10+5 Luck points are recovered. 
 
@@ -78,13 +79,13 @@ Naturally, a hero's Luck score will vary throughout play, but may never exceed 9
 
 ---
 
-# CRITICAL SUCCESSES AND FUMBLES
+## CRITICAL SUCCESSES AND FUMBLES
 
 A critical success only arises from a natural dice roll of "01." Should Luck points be used to lower a roll to 01 the result is always an Extreme success, rather than a critical one. The only exception to this would be in combat where two opponents have tied, both scoring Extreme success, if one uses Luck to lower their combat roll to"01" it means thay they beat their opponent's level of success, treat the result as an Extreme success though. 
 
 As with standard *Call of Cthulhu*, a naturally rolled critical success always means something beneficial has happened, determined by the Keeper and the situation at hand. Likewise, a natural fumble, or "100", means something bad has happened. Note thaty while Luck can be used to avoid the effects of a fumble or malfunction in combat, for non-combat skills a natural fumble cannot be avoided!
 
-# INTELLIGENCE ROLLS AND IDEA ROLLS
+## INTELLIGENCE ROLLS AND IDEA ROLLS
 
 An INT roll may be called for by the Keeper when a hero is attempting to solve an intellectual puzzle of some kind. By rolling equal to or below the hero's INT, the player will receive a solution from the Keeper. This might include solving a crossword puzzle or answering a riddle. 
 
@@ -102,7 +103,7 @@ Identification of present-day earthly languages is an excellent use for the *Kno
 
 ---
 
-# INSANITY
+## INSANITY
 
 ### Temporary Insanity
 
