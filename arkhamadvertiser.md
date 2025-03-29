@@ -14,9 +14,9 @@ The survivors stayed at the pyramid to bury it, completely, hopefully ending the
 
 During the month, Eleanor mentioned someone who may be able to help with other adventures, if the group was interested, a Mr. Green, Professor of Astrology at Miskatonic University.
 
-# Chapter 1:  Flight of the Scajaquada
+# Chapter 1: Flight of the Scajaquada
 
-
+# Chapter 2: Spring Cleaning
 
 ---
 # RULES
