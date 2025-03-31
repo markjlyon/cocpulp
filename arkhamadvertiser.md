@@ -1,3 +1,15 @@
+# RECENT HEADLINES FOR THE ARKHAM ADVERTISER
+
+On January 16, 1919 the Eighteenth Amendment, which established nationwide prohibition in the United States, was ratified. This amendment to the U.S. Constitution prohibited the manufacture, sale, and transportation of intoxicating liquors. 
+
+On 19 February 1920, a police report was made regarding Peggy Webber, a secretary at Arkham Dairy in the Merchant District has been missing for several days. Arkham Police are asking for anyone with any information to please come forward. 
+
+1 May - Major League Baseball Season:  The Brooklyn Robins and the Boston Braves play to a 1–1 tie in 26 innings, recording the longest single game in MLB history.
+
+On May 7, 1920, the Democratic Republic of Georgia (DRG) and Soviet Russia (RSFSR) signed the Treaty of Moscow. The Treaty of Moscow, also known as the "Moscow Treaty" or "Moscow Agreement", formally recognized the Democratic Republic of Georgia as an independent state by Soviet Russia. 
+
+---
+
 # Prologue: Dark Schemes
 
 Augustus Larkin, and his "personal aid" Luis de Mendoza, sought out explorers/archeologists/financiers for his expedition to locate a lost civilization in Peru. The ragtag group met in Lima, and were introduced to Jackson Elias (AKA Jessie Hughs), a published writer out of New York City, and Assistant Professor Eleanor Butler, a history professor from Miskatonic University.
