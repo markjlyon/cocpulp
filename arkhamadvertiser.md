@@ -1,5 +1,7 @@
 # WELCOME BACK CHUMMERS
 
+Watch your back. Shoot straight. Conserve ammo. And never, ever, cut a deal with a dragon. 
+
 ---
 
 ## The Big Ten
