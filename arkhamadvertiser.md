@@ -42,6 +42,75 @@ Lone Star
 
 Knight Errant
 
+
+---
+
+# PUYALLUP
+
+Puyallup also known as the Puyallup Barrens is a district of Seattle, devastated by the Mount Rainier eruption decades ago. It is a poor and unsafe district. The only district in Seattle which is majority metahuman.
+
+Mount Rainer erupted in 2017 and buried Puyallup in ash and lava. It was soon afterwards occupied by refugees from the newly established NAN. The majority is a wasteland of rusted factories, abandoned buildings, and squatter camps. Within is Hell's Kitchen, with it's lava fields and boiling geysers. It's residents grow up with the knowledge that any cut or scrape may result in an infection and therefore death, all the while hacking black phlegm. It is a place where sometimes it seems as every 10 meters there is a new gang.
+
+## Puyallup City, Puyallup
+
+## Barrens, Puyallup
+
+## Loveland, Puyallup
+
+### Quinn's
+
+This is the best nightclub in the Puyallup Barrens. It is owned by Raymond Quinn, a genial Ork who seems to know just how to attract the soldiers from Fort Lewis with the most money to burn.
+
+### The Spirit Focus
+
+This small nightclub, close to Fort Lewis and the Salish-Shidhe lands, is one of the best jazz clubs in the city. It is a favorite with the district's shamans, and rich jazz enthusiasts from all over Seattle travel to the club in their private helicopters or limousines. The club is controlled and protected by the Yakuza.
+
+### The Bishop's Corpse
+
+This small, well-kept restaurant is very popular. Earl Saenz, the owner, is admired for the soup kitchen he runs to benefit the area's squatters.
+
+### The Armadillo
+
+The Armadillo is a hot spot for the area's young deckers. A former decker herself, the owner secretly teaches many of the best and brightest on her own deck in the basement.  Expect to be assaulted by massive AR displays upon entering, and always wear your trendiest icons.
+
+### Kenston Aircraft Interiors
+
+This fortified factory manufactures passenger airplane interiors, mostly for Federated Boeing aircraft.
+
+### Loveland Bump & Sleep (Hotel/Brothel)
+
+This hotel is a large, Mafia-owned brothel. Because the hotel's intrior is so much smaller then the exterior suggests, it is possible that false walls hide secret passages between rooms.
+
+### Good Samaritan (Hospital)
+
+Good Samaritan was completely renewed in 2048 making it one of the newer hospitals in the city. The district has had trouble hiring competent staff so the hospital is currently understaffed.
+
+### Terrible Taps
+
+This is a real great place to meet women and get really tanked up. Corporate warriors come here a lot, which makes for some pretty frequent fights. Lots of computer types hang out here too.
+
+### The Big 'O'
+
+This small, inconspicuous dive is the perfect place for shadowrunners to meet their contacts and customers. It's noisy inside and the strippers are enough to keep most of the crowd preoccupied, allowing runners to conduct their business in relative privacy. The owner, an ex-runner, also lets friends use several private rooms in the rear.
+
+## Carbonado, Puyallup
+
+It's a mostly latino and black community of Orks whom have organized themselves and done a good job of defending themselves against predatory gangs and racist attacks. Due to it being a former source of precious metals it is covered with pits, quarries, and tunnels.
+
+## Petrowski Farms, Puyallup
+
+## Tarislar, Puyallup
+
+An elven ghetto with 1000s of elves unlike most of Puyallup is actually patrolled by Knight Errant whom are paid by the elves to maintain the peace. The Laesa syndicate likewise helps keep things orderly.
+
+### Delreadh An Tuarthell
+
+This small, poorly supplied, understaffed hospital is the only medical center available to the Elves of Tarislar. All the hospital's power is obtained through an illegal hookup to a Gaeatronics underground power line. Gaeatronics knows of the hookup, but cannot do anything about it. There dare not risk damaging this cable that carries 20 percent of Seattle's power in from the solar darms and geothermal power plants on the slopes of Mount Rainier.
+
+### Daisy chain
+
+Tarislar nightclub popular with Celto-goths, Laesa, and the Ancients gang. It lies on the edge of the elven ghetto.
+
 ---
 
 # RULES
