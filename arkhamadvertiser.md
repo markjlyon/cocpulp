@@ -179,6 +179,18 @@ Strong Attribute: STR +2 bonus modifier, CON +2 bonus modifier, INT -1 negative 
 
 Tough (SwoN pg 209)
 
+### Spellcaster
+
+You are a mage, capable of casting spells as described in section 6.1.0 and suffering a mage’s limits in using cyberware.
+
+### Summoner
+
+You are a summoner, capable of calling up spirit servants as described in section 6.2.0, though you also have limits in using cyberware.
+
+### Graced
+
+You have innate magical abilities that enhance your physical or mental prowess. You gain the Graced powers and hindrances described in section 6.3.0.
+
 ## FOCI
 
 A beginning PC can pick one Focus. If you’ve taken the Focused Edge, you can make a second pick, or take the second level of your initial Focus. You’ll gain additional Focus picks as you rise in character level.
