@@ -99,7 +99,9 @@ It's a mostly latino and black community of Orks whom have organized themselves 
 
 ## Petrowski Farms, Puyallup
 
-## Tarislar, Puyallup
+With its immense complex of fields and greenhouses, Petrowski Farm is one of the largest in Seattle. It is also one of the most heavily fortified. Over the years, the Petrowski family has refused to let volcanic dust, fires or squatters interfere with cultivation of their land. For four generations, the Petrowskis have been independent farmers selling most of their produce in the Pike Place Farmer's Market in downtown Seattle.
+
+## Tarislar "Rememberence", Puyallup
 
 An elven ghetto with 1000s of elves unlike most of Puyallup is actually patrolled by Knight Errant whom are paid by the elves to maintain the peace. The Laesa syndicate likewise helps keep things orderly.
 
@@ -107,7 +109,7 @@ An elven ghetto with 1000s of elves unlike most of Puyallup is actually patrolle
 
 This small, poorly supplied, understaffed hospital is the only medical center available to the Elves of Tarislar. All the hospital's power is obtained through an illegal hookup to a Gaeatronics underground power line. Gaeatronics knows of the hookup, but cannot do anything about it. There dare not risk damaging this cable that carries 20 percent of Seattle's power in from the solar darms and geothermal power plants on the slopes of Mount Rainier.
 
-### Daisy chain
+### Daisy Chain
 
 Tarislar nightclub popular with Celto-goths, Laesa, and the Ancients gang. It lies on the edge of the elven ghetto.
 
