@@ -249,4 +249,12 @@ If the character doesn’t even have level-0 in the pertinent skill, they suffer
 
 "Death is always close on the streets."
 
+# REFERENCES (for Inspiration)
 
+Altered Carbon
+
+Arcane
+
+Bright
+
+Mad Max: Fury Road
