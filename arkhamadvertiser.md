@@ -35,10 +35,31 @@ Shiawase Corporation (Japanese)
 
 Wuxing Incorporated (Chinese)
 
+## Organized Crime
+
+Shotozen-gumi, the Yakuza
+
+The Shotozumi-gumi is a disciplined and ruthless yakuza syndicate operating primarily in Puyallup, with extensive ties to both the criminal underworld and megacorporations. Known for their blend of traditional honor and modern illicit operations, they are deeply involved in smuggling, extortion, data theft, and black-market cyberware, all while maintaining a complex relationship with local government and corporate interests.
+
+     Rika Tanaka, “The Silk Widow”, Cultural Operations Lieutenant 
+
+Vecchio Braccio (The Old Arm), the Italian Mafia
+
+The Vecchio Braccio is a powerful Italian crime syndicate entrenched in Seattle’s underworld, specializing in money laundering, illegal gambling, arms trading, and corporate corruption. Led by the calculating Don Vecchio, the syndicate maintains influential ties with local politicians, megacorps, and law enforcement, using a blend of intimidation, charm, and strategic alliances to control Puyallup and expand its reach across the metroplex.
+
+The Jinmu Family, a Seoulpa Ring
+
+The Jinmu Family is a powerful criminal syndicate in Puyallup, known for its mastery in cybercrime, data theft, and high-tech smuggling. Operating both in the physical world and digital underworld, they maintain a delicate balance with local government and megacorps, using their cyber-espionage and covert operations to manipulate power and control over Puyallup’s underworld.
+
+The Red Rain Syndicate, a Seoulpa Ring
+
+The Red Rain Syndicate is a ruthless criminal organization known for its involvement in human trafficking, drug trade, weapons smuggling, and mercenary work across Puyallup and Seattle. Led by the volatile Choi “The Storm” Seung-hyun, the syndicate thrives on fear and terror, manipulating local government and megacorps to maintain its violent control over the streets while balancing uneasy alliances with powerful corporate entities.
 
 ## The Law
 
 Lone Star
+
+Lone Star in Puyallup maintains law and order with a corporate-backed focus, making them a polarizing force in the district. While they may provide a visible presence in policing, their ties to the megacorps and their brutal enforcement tactics have made them one of the least trusted entities among the local populace. Their reliance on heavy-handed tactics and lack of genuine concern for the district’s disadvantaged citizens creates a tense atmosphere, where they are seen as an arm of corporate oppression rather than a true protector of the people.
 
      Commander Valerie Holt – Commander of Lone Star Puyallup Division
 
@@ -48,28 +69,19 @@ Lone Star
 
 Knight Errant
 
+Knights Errant in Puyallup operates as a corporate-backed security force focused on maintaining order, but their close ties to megacorporations make them deeply distrusted by the local populace. While their leadership is pragmatic and their tactics effective in controlling high-crime areas, they are often seen as enforcers of corporate interests, which fuels resentment, particularly among lower-class residents, activists, and criminal groups. Their divisions, from elite tactical teams to intelligence and surveillance units, are feared for their overwhelming force and invasive presence. Despite attempts at public relations, Knights Errant remains an oppressive force to many, upholding corporate power at the expense of the district's marginalized communities.
+
      Commander Selene Rourke – Commander of Knights Errant Puyallup Division
 
      Lieutenant Marcus Trent – Operations Coordinator
 
      Captain Elle Stryker – Corporate Relations and Public Affairs Officer
 
-## Organized Crime
-
-Shotozen-gumi, the Yakuza
-
-     Rika Tanaka, “The Silk Widow”, Cultural Operations Lieutenant 
-
-Vecchio Braccio (The Old Arm), the Italian Mafia
-
-The Jinmu Family, a Seoulpa Ring
-
-The Red Rain Syndicate, a Seoulpa Ring
-
-
 ## Gangs
 
 The Steel Maw Collective, Loveland, Puyallup District, Seattle
+
+The Steel Maw Collective is a ruthless, cyber-enhanced street gang specializing in corporate espionage, data theft, and infiltration, operating under a strict hierarchy where lower-tier members are pushed to prove their worth through dangerous and degrading missions.
 
      Maxim “The Maw” Volkov
 
@@ -77,71 +89,284 @@ The Steel Maw Collective, Loveland, Puyallup District, Seattle
 
 # PUYALLUP
 
-Puyallup also known as the Puyallup Barrens is a district of Seattle, devastated by the Mount Rainier eruption decades ago. It is a poor and unsafe district. The only district in Seattle which is majority metahuman.
-
-Mount Rainer erupted in 2017 and buried Puyallup in ash and lava. It was soon afterwards occupied by refugees from the newly established NAN. The majority is a wasteland of rusted factories, abandoned buildings, and squatter camps. Within is Hell's Kitchen, with it's lava fields and boiling geysers. It's residents grow up with the knowledge that any cut or scrape may result in an infection and therefore death, all the while hacking black phlegm. It is a place where sometimes it seems as every 10 meters there is a new gang.
+The Puyallup District is a war-torn, industrial wasteland of decaying high-rises, toxic air, and gang-riddled streets, where the powerful megacorps turn a blind eye to the suffering of the masses. From the gritty, desperate corners of Carbonado and Loveland to the corporate-controlled heart of Puyallup City, the district is a hotbed of criminal activity, militarized control, and those seeking to survive or exploit the chaos. Amid the ruins, pockets of resistance and hope—like Petrowski Farms—struggle to offer a better life, though it often feels like a fleeting dream.
 
 ## Puyallup City, Puyallup
 
+Puyallup City is the crumbling heart of the Puyallup District, a forgotten urban sprawl ruled by a corrupt and decaying local government under Mayor Roy “King Smoke” Olmstead. Despite the overwhelming influence of organized crime and megacorporate interests, the city remains a battleground for survival, with the mayor’s iron-fisted rule barely maintaining order amid the chaos.
+
+### Crime Mall, Puyallup City, Puyallup
+
+Operator: Various low-tier fixers, gang leaders, and corporate off-the-books suppliers.
+
+A sprawling, decrepit megamall beneath the ruins of Puyallup City’s once-prosperous downtown, the Crime Mall is a labyrinthine den of illegal trade, shadowy deals, and dangerous alliances. Originally built as a high-end shopping center, it now serves as a massive black-market hub for all things illicit: stolen goods, weaponry, drugs, illegal cyberware, and counterfeit IDs. The mall’s floors are crammed with everything from shadow-tech to smuggled goods, and it’s the go-to location for anyone looking to operate under the radar.
+
+Tension: Vendors are often at odds, and conflicts can escalate into all-out shootouts or sabotage, especially if someone crosses the wrong dealer or gang.
+
+### The Hollow Halls — Hidden Sanctuary & Forgotten District
+
+Operator: The Silent Watcher, a mysterious figure whose true identity is known only to a select few.
+
+Tucked beneath the decaying foundations of Puyallup City, The Hollow Halls is a labyrinth of ancient, long-forgotten tunnels and chambers that have been repurposed by those who live in the shadows of the district. The area serves as a sanctuary for those rejected by society, a place where the outcasts can find shelter, respite, and a grim sense of community. The Hollow Halls are an eerie, dimly-lit maze of narrow corridors, hidden alcoves, and abandoned infrastructure, where whispers of strange rituals and the unspoken bonds of survival fill the air. Some come seeking refuge from the harsh world above, while others find themselves drawn to the dark promise of hidden knowledge, power, or immortality.
+
+Tension: The Hollow Halls are a place where survival is paramount, and resources are scarce. Those who reside here are deeply territorial, and alliances can shift in the blink of an eye as the desperate struggle to maintain their place in this subterranean world. The only law here is the unspoken one: trust is fleeting, and betrayal is common. Outsiders who venture too deep into the Hollow Halls may find themselves unable to leave—or worse, caught up in the underground community’s secretive dealings.
+
+Special Feature: The Deep Chambers—a vast network of cavernous rooms, once used for long-abandoned infrastructure projects—now house some of the Hollow Halls' most enigmatic residents. The inhabitants of these chambers have a peculiar and unsettling nature, and rumors swirl about their rituals, their strange practices, and the enigmatic beings they serve. No one quite knows what happens beyond the veiled entrances to these hidden depths, but the very walls seem to whisper of hunger, transformation, and a desperate need to replenish what has been lost.
+
 ## Barrens, Puyallup
+
+The Barrens of Puyallup are a desolate expanse of ruined industrial zones, toxic wastelands, and urban decay, where survival is a constant struggle. Home to a mix of gang-controlled neighborhoods, toxic zones, and corporate interests, it’s a district where the powerless live in squalor under the watchful eyes of megacorps, corrupt politicians, and brutal organized crime syndicates. Despite the bleakness, pockets of resistance, like Petrowski Farms, offer a glimmer of hope in an otherwise lawless and oppressive landscape.
+
+### The Rustforge Hall — Dwarven Clan Forge & Gathering Hall
+
+Operator: Borgan "Stonefury" Thrainar, a veteran war-forger with a deep respect for tradition and an unyielding sense of clan loyalty.
+
+Description: The Rustforge Hall is the heart of the dwarven community in the Black Junk Yards, where the clang of hammer on steel echoes day and night. It's a massive subterranean forge built deep into the scrap, where dwarven artisans create everything from weapons and armor to intricate mechanical devices. The air is thick with the heat of molten metal, and the walls are lined with the scarred remnants of past battles, tools, and war machines, all repurposed into something new and functional. Borgan "Stonefury" Thrainar, the hall’s master forger, leads the operation with an iron fist, ensuring that each piece forged is crafted with honor and precision. The forge is a symbol of dwarven resilience, where raw, often discarded materials are turned into functional works of art that have both utility and soul.
+
+Tension: The Rustforge Hall is a place of hard work, but also simmering tension. Rivalry exists between the dwarven clans over trade and forging rights, with Borgan caught in a delicate balance between maintaining tradition and adapting to the desperate realities of the junkyards. Outsiders come here seeking custom-made weaponry or mechanical parts, but often find themselves entangled in the dwarves' internal politics and power struggles.
+
+Special Feature: The Forge Pit at the heart of the hall is said to be enchanted with ancient dwarven runes, imbuing the weapons and armor made here with a sense of indestructibility. It's a coveted place, and only the most trusted dwarven smiths are allowed to work on it. Those who prove themselves worthy are granted the right to forge in the Pit, but those who fail to live up to the standards are ostracized or worse.
 
 ## Loveland, Puyallup
 
-### Quinn's
+Loveland is a neon-lit playground for the desperate and the privileged alike, blending brothels, nightclubs, and illegal entertainment with a dark underbelly of gang wars, corporate intrigue, and black-market dealings. Military personnel from Fort Lewis mingle with shadowrunners and mercs, all navigating a chaotic world where pleasure, survival, and secrets are bought and sold under the flickering lights of vice.
 
-This is the best nightclub in the Puyallup Barrens. It is owned by Raymond Quinn, a genial Ork who seems to know just how to attract the soldiers from Fort Lewis with the most money to burn.
+### Quinn’s — Underground Fight Club & Bar
 
-### The Spirit Focus
+Owner: Quinn “The Hammer” Reyes, ex-military with a penchant for brutal, no-rules combat.
 
-This small nightclub, close to Fort Lewis and the Salish-Shidhe lands, is one of the best jazz clubs in the city. It is a favorite with the district's shamans, and rich jazz enthusiasts from all over Seattle travel to the club in their private helicopters or limousines. The club is controlled and protected by the Yakuza.
+An illegal fight pit beneath an abandoned warehouse, where mercs, gangsters, and soldiers come to bet and brawl for pride or cash. The air is thick with sweat, blood, and cigarette smoke.
 
-### The Bishop's Corpse
+Specialty: Occasional “Shadowrun” bouts with augmented fighters, often used by gangs to recruit muscle or settle scores.
 
-This small, well-kept restaurant is very popular. Earl Saenz, the owner, is admired for the soup kitchen he runs to benefit the area's squatters.
+### The Spirit Focus — Mystic Supply & Occult Lounge
 
-### The Armadillo
+Proprietor: Kira Mendoza, a half-elf adept with ties to the Nithrondar.
 
-The Armadillo is a hot spot for the area's young deckers. A former decker herself, the owner secretly teaches many of the best and brightest on her own deck in the basement.  Expect to be assaulted by massive AR displays upon entering, and always wear your trendiest icons.
+This shop doubles as a discreet meeting place for magic users, offering rare reagents, ritual tools, and spirit summoning services. The lounge upstairs serves infused teas and hosts secret magical dueling tournaments.
 
-### Kenston Aircraft Interiors
+Vibe: Dim lighting, incense smoke, with whispered chants echoing late into the night.
 
-This fortified factory manufactures passenger airplane interiors, mostly for Federated Boeing aircraft.
+### The Bishop's Curse — A High-End Speakeasy & Information Broker’s Den
 
-### Loveland Bump & Sleep (Hotel/Brothel)
+Owner: “The Bishop,” a shadowy info broker rumored to have ties to Vecchio Braccio.
 
-This hotel is a large, Mafia-owned brothel. Because the hotel's intrior is so much smaller then the exterior suggests, it is possible that false walls hide secret passages between rooms.
+Known for exclusivity and discretion, only those invited can enter. Inside, whisper networks operate amidst top-shelf drinks, and deals involving data, artifacts, and secrets are struck.
 
-### Good Samaritan (Hospital)
+Atmosphere: Gothic architecture meets modern cyberpunk luxury; stained glass, soft jazz, and ever-watchful cameras.
 
-Good Samaritan was completely renewed in 2048 making it one of the newer hospitals in the city. The district has had trouble hiring competent staff so the hospital is currently understaffed.
+### The Armadillo — Dive Bar & Fixer’s Outpost
 
-### Terrible Taps
+Owner: Marta “Ironpaw” Delgado, ex-gang enforcer turned fixer.
 
-This is a real great place to meet women and get really tanked up. Corporate warriors come here a lot, which makes for some pretty frequent fights. Lots of computer types hang out here too.
+A chaotic but reliable place where runners and fixers gather. Rough crowd, cheap booze, and a steady flow of jobs posted on the “wall.” Marta is known for never screwing her clients and keeping the peace.
 
-### The Big 'O'
+Highlight: A hidden backroom with access to a commlink jammer for sensitive meetups.
 
-This small, inconspicuous dive is the perfect place for shadowrunners to meet their contacts and customers. It's noisy inside and the strippers are enough to keep most of the crowd preoccupied, allowing runners to conduct their business in relative privacy. The owner, an ex-runner, also lets friends use several private rooms in the rear.
+### Kenston Aircraft Interiors — Black Market Tech Workshop
+
+Manager: Samir “Patch” Kenston, former aircraft mechanic and shadowrunner tech specialist.
+
+Not a legitimate business, but a high-tech underground workshop specializing in smuggling and modifying aerial drones, cybernetic limbs, and stealth tech for shadowrunners and criminals.
+
+Reputation: Quality work, but beware the price and hidden agendas.
+
+### Loveland Bump & Sleep — Hourly Room Hotel & Clinic
+
+Owner: Dr. Harold “Doc” Jennings, an ethically questionable cyber-doc.
+
+Popular with mercs needing quick rest and repair, the hotel offers hourly rooms plus discreet medical treatment, cyberware upgrades, and “stress relief” therapies.
+
+Risk: Doc sometimes tests experimental procedures on patients without full consent.
+
+### The Good Samaritan Hotel — Medical Haven & Experimental Research Facility
+
+Owner: Dr. Alana "Doc" Greaves, a charismatic and morally ambiguous ex-corporate physician turned underground practitioner.
+
+A modest but high-tech hotel that caters to the underbelly of Puyallup City, offering not just basic accommodations, but also access to experimental medical procedures. The Good Samaritan is a sanctuary for those in desperate need of medical care, from cybernetics to trauma recovery, where the poor and downtrodden can find help—for a price. However, beneath the surface, the hotel serves as a front for a shadow research operation under the guise of providing aid to the community. Some patients come here seeking life-saving care, while others, unaware of the truth, find themselves subjects in highly questionable medical trials and data collection experiments.
+
+Danger: While the hotel’s rooms and services seem to be above board, many of its treatments come with dangerous side effects, and the cost can sometimes include more than just credits. A few individuals have disappeared after undergoing procedures, and whispers of illicit deals with unknown corporate interests abound. Guests need to keep their eyes open and their wits about them, as those seeking experimental treatments might find themselves unable to leave without owing more than they bargained for.
+
+Special Feature: The R&D Wing—hidden in the lower levels of the hotel—is rumored to contain private labs and specialized medical tech where groundbreaking (and highly questionable) research takes place. Most clients aren't told exactly what procedures they’ll be undergoing, and only the most desperate (or most lucrative) patients are allowed access. It’s a place where deals are struck in whispers, and the line between help and exploitation is blurred.
+
+### Terrible Taps — Sports Bar & Braindance Sports Arena
+
+Owner: Gina “G-Unit” Cruz, ex-ganger turned legit entrepreneur.
+
+A lively bar showing braindance broadcasts of underground sports: deadly mech fights, street races, and cage matches. Crowds gather here for big betting nights and team events.
+
+Highlight: A holographic jukebox with “old-world” funk and hip-hop tunes.
+
+### The Big ‘O’ — Massive Open-Air Night Market
+
+Organizer: Local coalition of orc and goblin street vendors and small-time fixers.
+
+A sprawling night market offering exotic foods, illegal tech, magical trinkets, and street performances. The market is a melting pot of cultures, smells, and shadow deals.
+
+Security: Tight but flexible enforcement by a mix of gang members and mercenary contractors.
+
+### The Iron Lotus — Braindance Club & Lounge
+
+Owner: Reika Mendoza, a former merc with ties to the The Red Rain Syndicate.
+
+A popular spot for military personnel to unwind in immersive braindance experiences ranging from high-action war simulations to deeply illicit sensual VR. Known for discrete private rooms and underground deals.
+
+Specialty: Exotic braindance sessions mimicking Fort Lewis combat scenarios, tailored for soldiers looking to relive or escape battlefield stress.
+
+### The Black Siren — Brothel and Gentlemen’s Club
+
+Owner: Madame Celestina “Cece” Marquez, an influential figure rumored to have a neural link to the Jinmu Family.
+
+High-end brothel catering to military brass, corporate fixers, and shadowrunners. The Black Siren offers everything from traditional companionship to magical enhancement sessions (legal gray area).
+
+Vibe: Velvet curtains, whispering secrets, and discrete back rooms with a reputation for high discretion.
+
+### Fortress Bar & Grill
+
+Owner: Retired Army vet turned entrepreneur, Hank “Grizzly” Lawson.
+
+A raucous, no-frills bar favored by soldiers and mercs, featuring strong drinks, hearty meals, and frequent impromptu brawls. Military patches decorate the walls, and the jukebox spins classic tunes alongside synthwave.
+
+Highlight: Weekly “Ranger’s Night” with discounted drinks and gun maintenance workshops.
+
+### The Neon Reaper — Dive Bar & Fixer Hub
+
+Run by an ex-ganger with connections to the Shotozumi-gumi, this grimy dive bar doubles as a shadowrunner meeting point and a place to pick up off-the-books jobs.
+
+Atmosphere: Low lights, heavy smoke, and a constant hum of whispered deals.
+
+### Hotel Memento — Budget Hotel and Clinic
+
+Owned by a small consortium of former corporate medtech specialists, Hotel Memento provides cheap lodging and basic medical care, including cyberware installs and emergency trauma treatment. Popular with mercs needing quick fixes between jobs.
+
+Hidden Feature: An illegal backdoor VR clinic offering experimental therapies, some involving neurological hacking—sometimes with unexpected side effects.
+
+### Cielo’s Kitchen — Latin Fusion Restaurant
+
+Owned by a charismatic orc chef, Cielo Hernandez, the restaurant is a local favorite for hearty meals blending traditional Latin spices with Puyallup’s rough ingredients. Often a front for discreet meetings among the local orc clans.
+
+Signature Dish: Spicy blood sausage with ash-roasted root vegetables.
 
 ## Carbonado, Puyallup
 
-It's a mostly latino and black community of Orks whom have organized themselves and done a good job of defending themselves against predatory gangs and racist attacks. Due to it being a former source of precious metals it is covered with pits, quarries, and tunnels.
+### The Rust Maw — Scavver Stronghold & Forge
+
+Leader: Ghorash “Ironjaw” Krug, a hulking orc blacksmith with a missing jaw replaced by crude mech-tooth plates.
+
+The Rust Maw is an immense scrapyard fortress built from rusted containers, crashed drones, and old car hulks. It’s both home and workshop for scavvers who strip tech and metal from Seattle’s wasteland.
+
+Vibe: The smell of oil and burnt metal; constant hammering and grinding noises. The air buzzes with wild techno beats mixed with guttural war chants.
+
+Reputation: The place to get hard-to-find mods, jury-rigged weapons, and barely legal gear—but expect to pay in blood or favors.
+
+### Bonebreaker Saloon — Orcish Dive & Meeting Hall
+
+Owner: Torga “Bonecrusher” Valka, an aggressive orc veteran with a scarred face and booming laugh.
+
+A smoke-filled den where orcs, goblins, and rough mercs drink cheap liquor and settle disputes with fists or blades. The walls are covered in trophies—broken weapons, trophies from gang fights, and faded war posters.
+
+Highlight: The weekly “Crush and Bash” fight nights draw huge crowds and serve as informal clan recruitment drives.
+
+### The Grotto — Goblin-run Black Market & Fixer Hub
+
+Proprietor: Snikkit “Sharpfang” Vez, a twitchy but clever goblin with augmented eyes that glow red.
+
+Hidden beneath a crumbling apartment complex, The Grotto is a maze of stalls selling illegal cyberware, magical charms, and stolen corporate data. It’s the primary source for gear in Carbonado, but also a den of double-crossers and informants.
+
+Danger: Always watch your back, and don’t linger if you’re not buying.
+
+### Iron Veins Clinic — Underground Medbay & Cyberware Shop
+
+Doc: Magda “Steelheart” Salazar, an orc surgeon with a no-nonsense attitude and a cybernetic right arm.
+
+A rough but highly skilled clinic offering cyberware installation, black market bioware, and emergency trauma care. Magda’s specialty is battlefield salvage and patchwork enhancements that keep the worst cases alive.
+
+Warning: Medical bills can be paid in blood or barter—Magda doesn’t mess around.
+
+### Scrapline Express — Cargo Tram & Smuggling Route
+
+Operator: Various shadowy smugglers with ties to local gangs and megacorps.
+
+A semi-abandoned cargo tram system running through Carbonado’s scrapyards and industrial ruins. Used for moving illicit goods, stolen tech, and occasionally people. The trams are a hotbed of ambushes, secret deals, and corporate surveillance.
+
+Tension: Gangs fight for control of the tram routes; runners using it risk getting caught in turf wars.
+
+### Bloodroot Yard — Clan War Memorial & Ritual Grounds
+
+Caretaker: Elder orc shaman Zuggoth “Bonebinder,” keeper of ancestral rites.
+
+A sacred space amidst the junk and rubble, where Carbonado’s orc clans perform rites of passage, honor fallen warriors, and invoke their spirits for strength.
+
+Atmosphere: Bone altars, warpainted stones, and flickering spirit fires illuminate the night. Outsiders beware—this is holy ground.
+
+### The Scrapper’s Pit — Fight Arena & Clan Trial Zone
+
+Promoter: Korga “The Mauler” Zhal, an orc with a reputation for brutality and fairness.
+
+A brutal open-air pit where conflicts are settled by combat and orcs prove their worth. The fights are vicious and often deadly, with spectators betting on outcomes and clans vying for dominance.
+
+Notoriety: Many Carbonado legends were born or broken here.
 
 ## Petrowski Farms, Puyallup
 
-With its immense complex of fields and greenhouses, Petrowski Farm is one of the largest in Seattle. It is also one of the most heavily fortified. Over the years, the Petrowski family has refused to let volcanic dust, fires or squatters interfere with cultivation of their land. For four generations, the Petrowskis have been independent farmers selling most of their produce in the Pike Place Farmer's Market in downtown Seattle.
+Petrowski Farms is a rare oasis of stability and hope amidst the chaos of the Puyallup District, offering both sustenance and a sense of community to the struggling masses. Nestled in the otherwise bleak landscape, the farm is a self-sustaining refuge, producing food and goods for the district while providing work and opportunity for locals looking to escape the violence of the streets. Led by the resilient Petrowski family, the farm is known for its strong sense of solidarity and its commitment to helping others, making it one of the few places in the district where genuine change feels possible, though it is constantly under pressure from local gangs, corporate interests, and the harsh realities of the barrens.
 
 ## Tarislar "Rememberence", Puyallup
 
-An elven ghetto with 1000s of elves unlike most of Puyallup is actually patrolled by Knight Errant whom are paid by the elves to maintain the peace. The Laesa syndicate likewise helps keep things orderly.
+Tarislar is a rundown enclave of exiled elves from Tir Tairngire, where crumbling buildings and graffiti-covered walls tell the story of a once-proud community now living in squalor. Despite their exile and hardship, the elves maintain a tight-knit culture, relying on underground networks and subtle influence to survive in the harsh urban sprawl of Puyallup, while quietly resisting the forces that would keep them marginalized.
 
-### Delreadh An Tuarthell
+### Delreadh An Tuarthell (The Silver Hall) — Elven Cultural Sanctuary
 
-This small, poorly supplied, understaffed hospital is the only medical center available to the Elves of Tarislar. All the hospital's power is obtained through an illegal hookup to a Gaeatronics underground power line. Gaeatronics knows of the hookup, but cannot do anything about it. There dare not risk damaging this cable that carries 20 percent of Seattle's power in from the solar darms and geothermal power plants on the slopes of Mount Rainier.
+Caretaker: Elder Faelenia, a stern and dignified matriarch who still clings to the ideals of elven nobility.
 
-### Daisy Chain
+Once a grand center of elven power, now a weathered monument to lost glory, the Silver Hall is where the enclave’s remaining leaders gather to discuss the fate of Tarislar. Elders and spiritual leaders use this space for clandestine meetings and rituals, though it’s often haunted by ghosts of the past and disputes over direction.
 
-Tarislar nightclub popular with Celto-goths, Laesa, and the Ancients gang. It lies on the edge of the elven ghetto.
+Tension: Those who enter seeking favors or support are subjected to a test of loyalty to the old ways, with few leaving unchanged.
+
+### Daisy Chain — Underground Smuggling & Escape Route
+
+Operator: Sian Drayr, an unassuming but cunning elf with a hand in everything from smuggling to blackmail.
+
+A vast network of hidden passageways, safehouses, and secret trade routes beneath Tarislar. The Daisy Chain connects the enclave’s scattered inhabitants, allowing them to move freely without detection by gangs, Yakuza, or corporate surveillance. It’s also a lifeline for smuggling illicit goods and people in and out of the enclave.
+
+Warning: The tunnels are riddled with traps and ambushes—only those who know the right paths survive.
+
+### The Gilded Shade — Nightclub & Black Market Bazaar
+
+Owner: Lysia Ren, a former elven simstar turned nightclub mogul, with her fingers in every illicit pie in Tarislar.
+
+A neon-lit hotspot where the elite of Tarislar mingle with the criminal underworld. The Gilded Shade is both a nightclub and a black-market bazaar where everything from magical artifacts to corporate secrets can be bought and sold under the table. The music is loud, the drinks are strong, and the deals are often dirtier than they appear.
+
+Warning: Visitors who aren’t careful with their words or deals may find themselves as part of the club’s entertainment—or worse.
+
+### The Fallen Spire — Radical Elven Gathering Spot
+
+Caretaker: Varyn Ardan, a firebrand elf who’s quickly gaining a following among the disenfranchised youth.
+
+Once the seat of Tarislar’s leadership, now a half-collapsed ruin home to the radical Free Thinkers. The Fallen Spire serves as both a base of operations and a battleground for ideological war, as elves who have rejected tradition meet to plot their uprising. It’s a place where whispers of revolution echo in the broken halls, and the idea of reclaiming Tarislar’s lost honor is spread through fervent speeches and guerilla tactics.
+
+Danger: Those who cross the Free Thinkers often find themselves the target of sabotage or public shaming.
+
+### The Crystal Market — Black Market & Magical Goods Exchange
+
+Operator: Karissa Vael, a sharp-tongued elf who’s rumored to have connections to megacorps and organized crime.
+
+An open-air marketplace where elves trade everything from enchanted jewelry to stolen corporate tech. The Crystal Market is a chaotic blend of chaos and opportunity, a place where the desperate seek out what they need and the cunning make their fortunes. From magical trinkets to black-market bioware, you can find almost anything here—for the right price.
+
+Danger: The market is filled with counterfeit goods, and a wrong move can get you on the wrong side of both the vendors and the local gangs.
+
+### The Hollowed Wood — Elven Spiritual Sanctuary
+
+Caretaker: Elandra Tirwen, an enigmatic mystic elf who is the spiritual guide for Tarislar’s few remaining druids.
+
+A secluded and tranquil forest hidden deep within Tarislar, the Hollowed Wood is one of the last places where the elves commune with the spirits of their ancestors and the ancient forces of nature. This sacred space is used for healing, ritual, and meditation, offering a brief respite from the hardships of daily life in the enclave. The trees seem to whisper secrets of the past, and those who enter with pure intentions often leave feeling more whole.
+
+Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its energies are not welcome.
+
+
+
+
+
 
 ---
 
