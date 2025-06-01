@@ -47,11 +47,20 @@ Knight Errant
 
 Shotozen-gumi, the Yakuza
 
+     Rika Tanaka, “The Silk Widow”
+
 Vecchio Braccio (The Old Arm), the Italian Mafia
 
 The Jinmu Family, a Seoulpa Ring
 
 The Red Rain Syndicate, a Seoulpa Ring
+
+
+## Gangs
+
+The Steel Maw Collective, Loveland, Puyallup District, Seattle
+
+     Maxim “The Maw” Volkov
 
 ---
 
