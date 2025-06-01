@@ -42,6 +42,7 @@ Shotozen-gumi, the Yakuza
 The Shotozumi-gumi is a disciplined and ruthless yakuza syndicate operating primarily in Puyallup, with extensive ties to both the criminal underworld and megacorporations. Known for their blend of traditional honor and modern illicit operations, they are deeply involved in smuggling, extortion, data theft, and black-market cyberware, all while maintaining a complex relationship with local government and corporate interests.
 
      Rika Tanaka, “The Silk Widow”, Cultural Operations Lieutenant 
+     The Silk Widow moves like a brand ambassador for the underworld — all sculpted grace in spiderweave suits and iridescent eyes, her every word measured, her silences sharper than threats.
 
 Vecchio Braccio (The Old Arm), the Italian Mafia
 
