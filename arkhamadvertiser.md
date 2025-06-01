@@ -40,14 +40,25 @@ Wuxing Incorporated (Chinese)
 
 Lone Star
 
+     Commander Valerie Holt – Commander of Lone Star Puyallup Division
+
+     Sergeant Alex “Slick” Roderick – Field Operations and Tactical Coordination
+
+     Captain Layla Mercer – Public Relations and Community Outreach
+
 Knight Errant
 
+     Commander Selene Rourke – Commander of Knights Errant Puyallup Division
+
+     Lieutenant Marcus Trent – Operations Coordinator
+
+     Captain Elle Stryker – Corporate Relations and Public Affairs Officer
 
 ## Organized Crime
 
 Shotozen-gumi, the Yakuza
 
-     Rika Tanaka, “The Silk Widow”
+     Rika Tanaka, “The Silk Widow”, Cultural Operations Lieutenant 
 
 Vecchio Braccio (The Old Arm), the Italian Mafia
 
