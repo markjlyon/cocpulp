@@ -43,6 +43,16 @@ Lone Star
 Knight Errant
 
 
+## Organized Crime
+
+Shotozen-gumi, the Yakuza
+
+Vecchio Braccio (The Old Arm), the Italian Mafia
+
+The Jinmu Family, a Seoulpa Ring
+
+The Red Rain Syndicate, a Seoulpa Ring
+
 ---
 
 # PUYALLUP
