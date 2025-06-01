@@ -2,6 +2,42 @@
 
 Watch your back. Shoot straight. Conserve ammo. And never, ever, cut a deal with a dragon. 
 
+Ashcore Now! — Data Packet #0425
+“The Voice in the Smog. The News That Bites Back.”
+Channel 8.13 — Deadlight Vulture Network
+Broadcast Timestamp: 2025-06-01 21:43:07 UTC
+Source: Rogue Stream, Ashcore District Feed
+
+---
+
+TOP STORIES FROM THE ASHCORE
+________________________________________
+1. Toxic Waste Leak Reported Near Carbonado Faultline
+Local authorities remain silent as residents report increasing respiratory issues and dead fish floating in the Puyallup River; unofficial sources blame shadowy corporate dumping.
+________________________________________
+2. Black Market Cyberware Surge Sweeps Through Hell’s Kitchen
+Street docs report a rise in unregulated cyber implants causing both miracle recoveries and gruesome failures — underground markets booming despite increased patrols.
+________________________________________
+3. Abandoned Puyallup Factory Transformed Into Cult Hideout
+Witnesses tell of strange chanting and nightly gatherings beneath the shattered windows; gang eyes turn wary as whispers of arcane rituals spread through the district.
+________________________________________
+4. Crime Mall Blackout Sparks Turf War in Downtown Puyallup
+Power failure for six hours left several businesses vulnerable, escalating tensions between rival gangs scrambling to claim territory; multiple casualties reported.
+________________________________________
+5. Rising Holo-Porn Distribution Disrupts Local Braindance Clubs
+Club owners lament the spike in unauthorized holo-chips flooding the market, blaming unknown syndicates attempting to corner the vice industry and weaken competitors.
+________________________________________
+Stay tuned to Ashcore Now! for the stories they don’t want you to see.
+If we’re on, you’re not dead yet.
+
+---
+
+End of Packet
+Data integrity: 99.87%
+Encryption: Standard Rogue Relay — fragile but fast
+Transmission: Live feed via Deadlight Vulture Network
+
+
 ---
 
 ## The Big Ten
