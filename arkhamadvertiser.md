@@ -1,6 +1,8 @@
 # WELCOME BACK CHUMMERS
 
-Watch your back. Shoot straight. Conserve ammo. And never, ever, cut a deal with a dragon. 
+"Watch your back. Shoot straight. Conserve ammo. And never, ever, cut a deal with a dragon." - Street Proverb
+
+---
 
 Ashcore Now! — Data Packet #0425
 “The Voice in the Smog. The News That Bites Back.”
