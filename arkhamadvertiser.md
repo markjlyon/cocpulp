@@ -462,8 +462,17 @@ A secluded and tranquil forest hidden deep within Tarislar, the Hollowed Wood is
 Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its energies are not welcome.
 
 
+---
 
+## WEAPONS
 
+---
+
+## CYBERWEAR
+
+--- 
+
+## SPELLS
 
 
 ---
