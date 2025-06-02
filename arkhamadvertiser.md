@@ -93,6 +93,22 @@ The Shotozumi-gumi is a disciplined and ruthless yakuza syndicate operating prim
      Rika Tanaka, “The Silk Widow”, Cultural Operations Lieutenant 
      The Silk Widow moves like a brand ambassador for the underworld — all sculpted grace in spiderweave suits and iridescent eyes, her every word measured, her silences sharper than threats.
 
+     Aiko – “Neon Blossom”, Mainstream Pop Idol
+     Petite with synthetic pink hair and heterochromatic eyes; always dressed in layered pastel-streetwear fused with Shinto-inspired accessories.
+
+     Yurei - Avant-Garde Noise Vocalist
+     Gaunt, albino-skinned, and often clad in layered black mesh and translucent veils; their eyes are augmented to flicker like static.
+
+     Crash Chrome – “The Riot Saint”, Industrial Punk + Anarcho-Anthemwave Vocalist
+     Tall, broad, and heavily inked with reactive tattoos; wears torn leathers, spiked vests, and a voice-mod rig that distorts his speech into harsh analog tones.
+
+     Juno Bleed – “The Suicide Siren”, Hyperdrone + Martyrpop Vocalist
+     Ethereal and wounded, she performs in synth-leather gowns streaked with artificial blood and shimmerdust; her bioluminescent veins glow on stage.
+
+     Echo-Mira – “The Memory Chef”, Sensory Cuisine / Emotion Cuisine Artist
+     Slender and androgynous, dressed in sterile white robes with chrome utensils strapped like ritual tools; her irises swirl with shifting color palettes.
+     
+
 Vecchio Braccio (The Old Arm), the Italian Mafia
 
 The Vecchio Braccio is a powerful Italian crime syndicate entrenched in Seattle’s underworld, specializing in money laundering, illegal gambling, arms trading, and corporate corruption. Led by the calculating Don Vecchio, the syndicate maintains influential ties with local politicians, megacorps, and law enforcement, using a blend of intimidation, charm, and strategic alliances to control Puyallup and expand its reach across the metroplex.
