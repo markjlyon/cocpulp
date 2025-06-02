@@ -181,7 +181,7 @@ The Iron Fangs are a brutal, chromed-out biker gang known for territorial contro
 
 ---
 
-# Fort Lewis
+# FORT LEWIS
 
 # PUYALLUP
 
