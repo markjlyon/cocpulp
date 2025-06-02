@@ -221,9 +221,9 @@ Tension: The Hollow Halls are a place where survival is paramount, and resources
 
 Special Feature: The Deep Chambers—a vast network of cavernous rooms, once used for long-abandoned infrastructure projects—now house some of the Hollow Halls' most enigmatic residents. The inhabitants of these chambers have a peculiar and unsettling nature, and rumors swirl about their rituals, their strange practices, and the enigmatic beings they serve. No one quite knows what happens beyond the veiled entrances to these hidden depths, but the very walls seem to whisper of hunger, transformation, and a desperate need to replenish what has been lost.
 
-## Barrens, Puyallup
+## Wastes, Puyallup
 
-The Barrens of Puyallup are a desolate expanse of ruined industrial zones, toxic wastelands, and urban decay, where survival is a constant struggle. Home to a mix of gang-controlled neighborhoods, toxic zones, and corporate interests, it’s a district where the powerless live in squalor under the watchful eyes of megacorps, corrupt politicians, and brutal organized crime syndicates. Despite the bleakness, pockets of resistance, like Petrowski Farms, offer a glimmer of hope in an otherwise lawless and oppressive landscape.
+The Wastes of Puyallup are a desolate expanse of ruined industrial zones, toxic wastelands, and urban decay, where survival is a constant struggle. Home to a mix of gang-controlled neighborhoods, toxic zones, and corporate interests, it’s a district where the powerless live in squalor under the watchful eyes of megacorps, corrupt politicians, and brutal organized crime syndicates. Despite the bleakness, pockets of resistance, like Petrowski Farms, offer a glimmer of hope in an otherwise lawless and oppressive landscape.
 
 ### The Rustforge Hall — Dwarven Clan Forge & Gathering Hall
 
