@@ -166,6 +166,19 @@ The Steel Maw Collective is a ruthless, cyber-enhanced street gang specializing 
      The Pupils (Lower-tier Members / New Recruits)
      Fade
 
+Sunset Vultures
+
+The Sunset Vultures are a flashy, nihilistic gang of ex-performers and thrill-seekers who livestream their crimes for fame, favor, and cryptowire donations. Equal parts cartel and performance art collective, they thrive on spectacle, shock, and the slow rot of collapsing celebrity culture.
+
+Red Talons
+
+The Red Talons are a nomadic salvage cult turned militant scavenger gang, infamous for hijacking corp convoys and stripping tech down to raw code and scrap. Led by cryptic techno-shamans, they blend ritualistic machine worship with guerrilla tactics, treating every heist as both rebellion and offering.
+
+Iron Fangs
+
+The Iron Fangs are a brutal, chromed-out biker gang known for territorial control, underground fight pits, and violent enforcement for hire across the Puyallup sprawl. Their members undergo crude, high-risk cybernetic grafting rites to earn status, resulting in a culture of blood, loyalty, and savage retribution.
+
+
 ---
 
 # Fort Lewis
