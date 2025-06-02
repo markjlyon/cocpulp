@@ -137,6 +137,8 @@ The Steel Maw Collective is a ruthless, cyber-enhanced street gang specializing 
 
 ---
 
+# Fort Lewis
+
 # PUYALLUP
 
 The Puyallup District is a war-torn, industrial wasteland of decaying high-rises, toxic air, and gang-riddled streets, where the powerful megacorps turn a blind eye to the suffering of the masses. From the gritty, desperate corners of Carbonado and Loveland to the corporate-controlled heart of Puyallup City, the district is a hotbed of criminal activity, militarized control, and those seeking to survive or exploit the chaos. Amid the ruins, pockets of resistance and hope—like Petrowski Farms—struggle to offer a better life, though it often feels like a fleeting dream.
