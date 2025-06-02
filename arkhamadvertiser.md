@@ -47,32 +47,43 @@ Transmission: Live feed via Deadlight Vulture Network
 
 Ares Macrotechnology (UCAS) 
 
+Ares blends military-industrial power with slick American branding, manufacturing everything from assault rifles to aerospace vehicles. With deep ties to UCAS security forces and Knight Errant, Ares pushes a clean-cut image while quietly fueling endless urban conflicts.
 
 Aztechnology (CAS)
 
+A media and consumer goods giant masking a blood-soaked history, Aztechnology is infamous for its rumored use of blood magic and its cult-like internal culture. Despite its dark reputation, it holds massive sway across Latin America and the CAS through economic dominance and aggressive PR campaigns.
 
 EVO Corporation (Metahumanity)
 
+EVO is the face of transhumanism and metahuman rights, promoting cutting-edge biotech, genetic augmentation, and space colonization with a “progress for all” mantra. Behind the optimism, EVO pushes controversial experiments and is deeply invested in post-human evolution — whether society is ready or not.
 
 Horizon (UCAS)
 
+A master of narrative control, Horizon dominates entertainment, social media, and public relations through subtle manipulation and mass appeal. Their real power lies in memetic warfare and social engineering, shaping public opinion across the Sixth World like puppetmasters behind the screen.
 
 Mitsuhama Computer Technologies (Japanese)
 
+A cybernetics and robotics juggernaut, MCT pairs relentless corporate discipline with some of the world’s most advanced AI research and magical integration. With a reputation for brutal efficiency and heavy-handed security, MCT maintains dominance through both cutting-edge tech and cold-blooded tradition.
 
-NeoNET (Celedyr, the dragon)
+NeoNET (Celedyr-Aligned, dragon)
 
+Built on the ashes of Matrix innovation, NeoNET fuses bleeding-edge networking with dragon-fueled arcane research, thanks to its enigmatic backer, Celedyr. Though weakened in recent scandals, its legacy in technomancy and AI still haunts the digital underground.
 
 Renraku (Japanese)
 
+Specializing in matrix infrastructure and security systems, Renraku is a fortress-minded megacorp that values order, structure, and total information control. After the Arcology AI disaster, it doubled down on internal oversight and now operates with near-paranoid precision.
 
 Saeder-Krupp Heavy Industries (German)
 
+Controlled by the great dragon Lofwyr, Saeder-Krupp is the most powerful megacorp on the planet, with interests in everything from arms to alchemy. Ruthless, efficient, and dragon-led, its influence stretches across continents — and boardrooms tremble when its logo appears.
 
 Shiawase Corporation (Japanese)
 
+Shiawase pioneered corporate extraterritoriality and continues to dominate in energy, environmental systems, and agro-tech. A family-run empire with a disturbing obsession with loyalty and tradition, it weaves long-term schemes with patient, deadly grace.
 
 Wuxing Incorporated (Chinese)
+
+Wuxing is the master of global finance, logistics, and geomancy, drawing strength from ancient feng shui practices and modern megacorp precision. Behind their balance sheets lies deep magical expertise, and they quietly manipulate ley lines and economies alike.
 
 ## Organized Crime
 
