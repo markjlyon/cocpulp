@@ -149,7 +149,22 @@ The Steel Maw Collective, Loveland, Puyallup District, Seattle
 
 The Steel Maw Collective is a ruthless, cyber-enhanced street gang specializing in corporate espionage, data theft, and infiltration, operating under a strict hierarchy where lower-tier members are pushed to prove their worth through dangerous and degrading missions.
 
-     Maxim “The Maw” Volkov
+     Leader: Maxim “The Maw” Volkov — “The Apex Grinder”
+     A towering brute wrapped in chrome and blood-rusted steel, Maxim is infamous for his crushing cybernetic jaw and ruthless hunger for control.
+
+     Underboss: Silvia “Circuit Queen” Tran — “The Glitch Regent”
+     Cold as liquid nitrogen and sharper than monowire, Silvia bends code and people alike with ruthless precision.
+
+     The Iron Claw (Elite Enforcers)
+
+     The Mouths (Middle-tier Members): Hex — “The Jester of Glitches”
+     A laughing, twitchy sadist who lives to turn systems against their users — especially when people die screaming in digital agony.
+
+     The Mouths (Middle-tier Members): Grit — “The Pavement Butcher”
+     A war-torn ex-merc, built like a dumpster full of guns and bad decisions, whose first reaction to a problem is to crush it into meat.
+
+     The Pupils (Lower-tier Members / New Recruits)
+     Fade
 
 ---
 
