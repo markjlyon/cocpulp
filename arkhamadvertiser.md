@@ -7,7 +7,6 @@
 Ashcore Now! — Data Packet #0425
 “The Voice in the Smog. The News That Bites Back.”
 Channel 8.13 — Deadlight Vulture Network
-Broadcast Timestamp: 2025-06-01 21:43:07 UTC
 Source: Rogue Stream, Ashcore District Feed
 
 ---
