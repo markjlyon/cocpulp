@@ -135,6 +135,64 @@ The Puyallup District is a war-torn, industrial wasteland of decaying high-rises
 
 Puyallup City is the crumbling heart of the Puyallup District, a forgotten urban sprawl ruled by a corrupt and decaying local government under Mayor Roy “King Smoke” Olmstead. Despite the overwhelming influence of organized crime and megacorporate interests, the city remains a battleground for survival, with the mayor’s iron-fisted rule barely maintaining order amid the chaos.
 
+### The Ember Spire — City Hall & Mayoral Complex
+
+Operator: Mayor Roy “King Smoke” Olmstead
+
+An ominous neo-gothic tower that looms over central Puyallup, The Ember Spire houses the offices of the Mayor, Deputy Mayor, and top-tier administration. Black mirrored windows and crimson lighting give the tower its nickname. Inside, the structure is a blend of corporate chic and ceremonial grandiosity — all designed to intimidate visitors and assert control.
+
+Security is handled by corporate-trained private guards and an AI threat assessment system that constantly scans for “deviant behavior.” Dissenters often find themselves “redirected” before ever stepping through the grand lobby.
+
+Tension: Protesters frequently gather outside the barricaded square, while rumors swirl about a hidden sublevel where classified meetings occur between Olmstead and corporate stakeholders. Few leave that floor unchanged.
+
+Special Feature: The Red Vault — A hidden sub-basement archive housing sensitive blackmail files, corporate contracts, and illicit secrets. Access is strictly limited, but whispered about by info brokers and fixers across the city.
+
+### The Chromium Grid — District Surveillance Control Center
+
+Operator: Director Gerald “Watchdog” Dovetail
+
+A sleek, low-profile monolith buried under a former transit terminal, The Chromium Grid is the nerve center of Puyallup’s surveillance network. Inside, banks of holographic displays project live feeds from thousands of drones, cams, and cybernetic informants throughout the district.
+
+This is where Dovetail's operatives monitor all digital and physical movement across the city — flagging threats, blacklisting individuals, and "correcting" patterns deemed disruptive.
+
+Tension: Activist hackers constantly attempt to breach the Grid's firewalls, while rogue deckers suspect an untraceable sub-AI is influencing decisions with an unknown agenda.
+
+Special Feature: The Mirror Room — A predictive analytics suite powered by stolen DNI data and quantum cognition nodes. It supposedly generates “threat oracles” about future public behavior — or targeted political opponents.
+
+### The Slatehouse — Department of Urban Development
+Operator: Claudia “Brick” Voss
+
+Built atop the ruins of an old industrial office block, The Slatehouse is a brutalist slab of concrete and glass that reflects its architect’s no-nonsense ethos. Voss's operatives coordinate zoning changes, corporate construction bids, and public works — often with little regard for displaced residents.
+
+It is the beating heart of Puyallup’s transformation from slum to segmented corporate playground, churning out contracts that pave over communities.
+
+Tension: Slumlords, protest groups, and neighborhood elders frequently petition or infiltrate The Slatehouse, trying to slow the tide of gentrification. Most are stonewalled, but some make... arrangements.
+
+Special Feature: The Future Room — A scale-model holographic map of the entire district. Rumor says key pieces light up with current corporate interest or active redevelopment threats, allowing insight into what's coming next.
+
+### The Obsidian Archive — Bureau of Records & Intelligence Affairs
+
+Operator: Chief of Staff Terrence “Terry” Bishop
+
+An old pre-Crash data vault buried beneath the city’s first courthouse, The Obsidian Archive contains sensitive city records, ancestral land deeds, and the digital remnants of long-forgotten scandals. Bishop runs it quietly, using the info within to twist arms and make deals before opposition can organize.
+
+It is not open to the public.
+
+Tension: Archive workers often disappear without explanation, and rumor holds that the lower levels are “cursed” — riddled with rogue code and data-phantoms that whisper secrets not meant to be known.
+
+Special Feature: Echo Subnet — An underground AI librarian interface corrupted by black ICE long ago. If approached respectfully, it can still answer questions — but it always demands a secret in return.
+
+### The Green Veil — Environmental Affairs Field Office
+Operator: Miranda “Green” Cho
+
+A heavily fortified greenhouse and monitoring station set up within a toxic industrial exclusion zone, The Green Veil serves as a combination lab, sanctuary, and staging ground for environmental reclamation missions.
+
+Cho and her team work amid polluted air, mutated plantlife, and occasional sabotage from industries that don’t want environmental regulation. The building itself is overgrown with vine-covered steel plating and powered by unstable green tech prototypes.
+
+Tension: Corp-backed black ops occasionally target the Veil’s experimental data, while local scavengers seek to loot its tech. Eco-terrorists sometimes shelter here — or worse, infiltrate it.
+
+Special Feature: Seed Vault Alpha — A cryogenic vault storing engineered flora that could, under the right conditions, detoxify entire districts — or render them uninhabitable to anything not bio-adapted.
+
 ### Crime Mall, Puyallup City, Puyallup
 
 Operator: Various low-tier fixers, gang leaders, and corporate off-the-books suppliers.
