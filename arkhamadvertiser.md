@@ -145,7 +145,7 @@ Knights Errant in Puyallup operates as a corporate-backed security force focused
 
 ## Gangs
 
-The Steel Maw Collective, Loveland, Puyallup District, Seattle
+The Steel Maw Collective
 
 The Steel Maw Collective is a ruthless, cyber-enhanced street gang specializing in corporate espionage, data theft, and infiltration, operating under a strict hierarchy where lower-tier members are pushed to prove their worth through dangerous and degrading missions.
 
@@ -178,6 +178,54 @@ Iron Fangs
 
 The Iron Fangs are a brutal, chromed-out biker gang known for territorial control, underground fight pits, and violent enforcement for hire across the Puyallup sprawl. Their members undergo crude, high-risk cybernetic grafting rites to earn status, resulting in a culture of blood, loyalty, and savage retribution.
 
+Fentek Sons
+
+This technophile cult worships machine evolution, converting their bodies into terrifying Franken-cyber abominations. They stalk the Scrapline Express to rip tech from the dead and implant it while still warm.
+
+Serpent Tongue
+
+Silver-tongued nihilists with a taste for forbidden magic, Serpent Tongue elves deal in cursed fetishes, spirit-binding, and addictive illusions. Their whispered philosophy promises freedom through entropy—and their clients never come away whole.
+
+Velvet Chain
+
+A glam-gang of elven braindance barons and memory forgers, Velvet Chain traffics in simulated fantasies and psychological leverage. Their influence twists politicians and pleasure-seekers alike with luxurious BTLs and tailored blackmail.
+
+Free Shard (New)
+
+Born from Fallen Spire radicals, Free Shard rejects Tir tradition and wages guerrilla war on both corps and elven elders. Their tactics are unpredictable and ideological, mixing sabotage with ancient rituals gone rogue.
+
+
+Gorehands
+
+Brutal enforcers with crimson-painted fists and an iron-code of orkish supremacy, Gorehands believe strength is tradition. They operate as executioners, pit fighters, and clan-guardians in Carbonado, violently maintaining old orc laws.
+
+Ash Kings
+
+Ash Kings rule the scorched industrial wastes near Carbonado with scavenged flamethrowers and soot-blackened armor. They believe the world must burn for the strong to rise, and their firebrand raids follow the "words" of a rogue war-AI.
+
+Molten Clad
+
+A brotherhood of forge-born dwarves who weld their armor into their flesh and treat combat like a craft. The Molten Clad rule sections of Carbonado’s underground foundries, trading blood-forged weapons and brutal security in exchange for loyalty and steel.
+
+Cinders of Cain
+
+A fanatical cult that worships destruction through flame, the Cinders roam Puyallup’s ash-choked streets performing purification rites with molotovs and incendiaries. Their fire-priests speak in riddles, and their acts of arson often target both gangs and corps who “refuse rebirth.”
+
+Ash Rats 
+
+A ragged pack of orphaned kids and burned-out teens riding scavenged bikes, the Ash Rats hold the ruins between major turfs with traps, speed, and recklessness. They idolize shadowrunners and livestream petty crimes as heroic stunts, making them beloved—and dangerous.
+
+Gravehorns 
+
+Operating in and around the crumbling depths of the Hollow Halls, the Gravehorns are a feral gang of ghoul-tolerant mutants, outcasts, and the infected, who rule the ruins with a savage, corpse-worshipping code. Their presence is whispered of in fear—even among other gangs—as they strike from sewer grates, ossuaries, and crypt-like hideouts to feed or defend their ghoul “kin.”
+
+Glitch Saints
+
+A collective of deckers, AR vandals, and failed corp kids turned digital insurgents, the Glitch Saints hack billboards, drone patrols, and security nets for the lulz—or the message. Each member is marked by animated AR halos visible only in the Matrix.
+
+Chrome Locusts
+
+Operating out of a repurposed recycling plant, the Chrome Locusts control swarms of combat-modified drones and steal tech directly from the battlefield. Known for coordinated raids, scrapyard ambushes, and selling reprogrammed murderbots to the highest bidder.
 
 ---
 
