@@ -2,6 +2,7 @@
     "chars": [
         {
             "alias": "Fade",
+            "photo": "fade.png",
             "biograph": "Biograph",
             "archetype": "Street Samurai",
             "skills": "Skills",
