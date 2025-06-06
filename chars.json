@@ -1,0 +1,20 @@
+{
+    "chars": [
+        {
+            "alias": "Fade",
+            "biograph": "Biograph",
+            "archetype": "Street Samurai",
+            "skills": "Skills",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                    ]
+                }
+            ]
+        }
+    ]
+}
