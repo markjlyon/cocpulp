@@ -16,6 +16,57 @@
                     ]
                 }
             ]
+        },
+        {
+            "alias": "Fade",
+            "photo": "fade.png",
+            "biograph": "Biograph",
+            "archetype": "Street Samurai",
+            "skills": "Skills",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                    ]
+                }
+            ]
+        },
+        {
+            "alias": "Fade",
+            "photo": "fade.png",
+            "biograph": "Biograph",
+            "archetype": "Street Samurai",
+            "skills": "Skills",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                    ]
+                }
+            ]
+        },
+        {
+            "alias": "Fade",
+            "photo": "fade.png",
+            "biograph": "Biograph",
+            "archetype": "Street Samurai",
+            "skills": "Skills",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                    ]
+                }
+            ]
         }
     ]
 }
