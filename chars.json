@@ -8,6 +8,7 @@
             "edges": "Focused",
             "foci": "Cyberdoc, Deadeye",
             "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
+            "spells": "",
             "contacts": [
                 {
                     "friends": [
@@ -29,6 +30,7 @@
             "edges": "Elven, Voice of the People",
             "foci": "Pop Idol",
             "skills": "Connect-0, Lead-0, Notice-0, Perform-1, Shoot-0",
+            "spells": "",
             "contacts": [
                 {
                     "friends": [
@@ -72,6 +74,7 @@
             "edges": "Focused, Wired",
             "foci": "Specialist",
             "skills": "Extert-0, Notice-0, Shoot-0, Sneak-0, Survival-0",
+            "spells": "",
             "contacts": [
                 {
                     "friends": [
