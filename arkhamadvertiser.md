@@ -235,6 +235,14 @@ Operating out of a repurposed recycling plant, the Chrome Locusts control swarms
 
 The Puyallup District is a war-torn, industrial wasteland of decaying high-rises, toxic air, and gang-riddled streets, where the powerful megacorps turn a blind eye to the suffering of the masses. From the gritty, desperate corners of Carbonado and Loveland to the corporate-controlled heart of Puyallup City, the district is a hotbed of criminal activity, militarized control, and those seeking to survive or exploit the chaos. Amid the ruins, pockets of resistance and hope—like Petrowski Farms—struggle to offer a better life, though it often feels like a fleeting dream.
 
+Population: 506,000 (estimated)
+Humans: 48%
+Elves: 21%
+Dwarves: 4%
+Orks: 22%
+Trolls: 4%
+Other: 1%
+
 ## Puyallup City, Puyallup
 
 Puyallup City is the crumbling heart of the Puyallup District, a forgotten urban sprawl ruled by a corrupt and decaying local government under Mayor Roy “King Smoke” Olmstead. Despite the overwhelming influence of organized crime and megacorporate interests, the city remains a battleground for survival, with the mayor’s iron-fisted rule barely maintaining order amid the chaos.
