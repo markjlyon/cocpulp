@@ -39,6 +39,43 @@
                     ]
                 }
             ]
+        },
+        {
+            "alias": "Maruc Redmoon",
+            "photo": "MarcusRedmoon.png",
+            "attributes": "HS-XY-FEDIAA-06-AS",
+            "archetype": "Street Mage",
+            "edges": "On Target, Spellcaster",
+            "foci": "Unique Gift",
+            "skills": "Cast-1, Connect-0, Program-0, Shoot-0",
+            "spells": "Blast, Compulsion, Heal Injury, Muffle",
+            "contacts": [
+                {
+                    "friends": [
+                        { "name": "Lucy Harrow", "archetype": "Street Mage" }
+                    ],
+                    "acquaintances": []
+                }
+            ]
+        },
+        {
+            "alias": "Becca Lovesword",
+            "photo": "Fade.png",
+            "attributes": "HS-XX-EEE99A-02-00",
+            "archetype": "Thief Samurai",
+            "edges": "Focused, Wired",
+            "foci": "Specialist",
+            "skills": "Extert-0, Notice-0, Shoot-0, Sneak-0, Survival-0",
+            "spells": "",
+            "contacts": [
+                {
+                    "friends": [],
+                    "acquaintances": [
+                        { "name": "Demi Otto", "archetype": "Arms Dealer" },
+                        { "name": "Dr. Ivana Sleep", "archetype": "Cyber Doc" }
+                    ]
+                }
+            ]
         }
     ]
 }
