@@ -231,6 +231,36 @@ Operating out of a repurposed recycling plant, the Chrome Locusts control swarms
 
 # FORT LEWIS
 
+Fort Lewis is a walled military arcology turned blacksite fortress, housing Earth Defense forces, classified arcano-tech labs, and corp-backed war assets under the guise of national security. Surrounded by drone-patrolled buffer zones and redacted neighborhoods, it stands as both shield and sword—protecting Seattle from threats no one will name, while quietly preparing for a war the public doesn't know has started.
+
+Population: 98,000
+Humans: 61%
+Elves: 14%
+Dwarves: 3%
+Orks: 16%
+Trolls: 3%
+Other: 3%
+
+“APPLY NOW FOR CLEARANCE LEVEL BLUE.”
+[Image: Security checkpoint. A lift descends into a subterranean hangar full of classified vehicles.]
+Narrator: “We can’t tell you what you’ll see. But we can promise you’ll never see the world the same way again.”
+Tagline: “Fort Lewis: The First Line You’ll Never See.”
+
+“YOU WANT TO KNOW WHAT'S OUT THERE?”
+[Image: Surveillance photo of a strange distortion at high altitude. Static. Cut to launchbay doors opening to space.]
+Narrator: “The sky isn’t empty. It’s waiting. Fort Lewis Command needs those who don’t flinch when the void stares back.”
+Tagline: “Don’t ask. Launch.”
+
+“YOU’RE NOT JUST A CIVILIAN. YOU’RE A TARGET.”
+[Image: A family in the ruins of Loveland. Cut to soldiers in sleek exo-rigs pulling them into evac shuttles. Flag overlays the screen.]
+Narrator: “Security isn’t a right. It’s a response. Suit up. Step forward.”
+Tagline: “Fort Lewis. Be First. Be Final.”
+
+“DO YOU BELIEVE IN EARTH?”
+[Image: Earth seen from orbit. A lone trooper stands in silhouette. Subtle flickers in the stars.]
+Narrator (calm): “Some of us still do. Some of us always will.”
+Tagline: “Fort Lewis. We’re still here.”
+
 # PUYALLUP
 
 The Puyallup District is a war-torn, industrial wasteland of decaying high-rises, toxic air, and gang-riddled streets, where the powerful megacorps turn a blind eye to the suffering of the masses. From the gritty, desperate corners of Carbonado and Loveland to the corporate-controlled heart of Puyallup City, the district is a hotbed of criminal activity, militarized control, and those seeking to survive or exploit the chaos. Amid the ruins, pockets of resistance and hope—like Petrowski Farms—struggle to offer a better life, though it often feels like a fleeting dream.
