@@ -1,4 +1,4 @@
-{
+ O{
     "chars": [
         {
             "alias": "Dr. Jasper Caldwell",
@@ -78,8 +78,8 @@
                 },
                 {
                     "acquaintances": [
-                        { "name": "Vex Morrow", "archetype": "Fixer" },
-                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
+                        { "name": "Demi Otto", "archetype": "Arms Dealer" },
+                        { "name": "Dr. Ivana Sleep", "archetype": "Cyber Doc" }
                     ]
                 }
             ]
