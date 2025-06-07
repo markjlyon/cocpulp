@@ -3,8 +3,10 @@
         {
             "alias": "Dr. Jasper Caldwell",
             "photo": "JasperCaldwell.png",
-            "biograph": "HS-XY-EHGEED-AG",
+            "attributes": "HS-XY-EHGEED-AG",
             "archetype": "Street Doc",
+            "edges": "Focused, Unknown",
+            "foci": "Cyberdoc, Deadeye",
             "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
             "contacts": [
                 {
@@ -13,6 +15,8 @@
                 },
                 {
                     "acquaintances": [
+                        { "name": "Vex Morrow", "archetype": "Fixer" },
+                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
                     ]
                 }
             ]
@@ -20,7 +24,7 @@
         {
             "alias": "Fade",
             "photo": "fade.png",
-            "biograph": "Biograph",
+            "attributes": "Biograph",
             "archetype": "Street Samurai",
             "skills": "Skills",
             "contacts": [
@@ -37,7 +41,7 @@
         {
             "alias": "Fade",
             "photo": "fade.png",
-            "biograph": "Biograph",
+            "attributes": "Biograph",
             "archetype": "Street Samurai",
             "skills": "Skills",
             "contacts": [
@@ -54,7 +58,7 @@
         {
             "alias": "Fade",
             "photo": "fade.png",
-            "biograph": "Biograph",
+            "attributes": "Biograph",
             "archetype": "Street Samurai",
             "skills": "Skills",
             "contacts": [
