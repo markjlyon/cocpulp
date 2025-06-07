@@ -20,6 +20,69 @@
                     ]
                 }
             ]
+        },
+        {
+            "alias": "Nyxa Lux",
+            "photo": "NyxaLux.png",
+            "attributes": "HN-XX-ADDGFI-00",
+            "archetype": "Face",
+            "edges": "Focused, Unknown",
+            "foci": "Cyberdoc, Deadeye",
+            "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                        { "name": "Vex Morrow", "archetype": "Fixer" },
+                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
+                    ]
+                }
+            ]
+        },
+        {
+            "alias": "Lutten Pillage",
+            "photo": "LuttenPillage.png",
+            "attributes": "HS-XY-ADDGFI-00",
+            "archetype": "Face",
+            "edges": "Focused, Unknown",
+            "foci": "Cyberdoc, Deadeye",
+            "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                        { "name": "Vex Morrow", "archetype": "Fixer" },
+                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
+                    ]
+                }
+            ]
+        },
+        {
+            "alias": "Becca Lovesword",
+            "photo": "Fade.png",
+            "attributes": "HS-XX-EEE99A-00",
+            "archetype": "Street Thief",
+            "edges": "Focused, Wired",
+            "foci": "Specialist, Undocumented",
+            "skills": "Extert-0, Notice-0, Shoot-0, Sneak-0, Survival-0",
+            "contacts": [
+                {
+                    "friends": [
+                    ]
+                },
+                {
+                    "acquaintances": [
+                        { "name": "Vex Morrow", "archetype": "Fixer" },
+                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
+                    ]
+                }
+            ]
         }
     ]
 }
