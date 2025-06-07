@@ -24,7 +24,7 @@
         {
             "alias": "Nyxa Lux",
             "photo": "NyxaLux.png",
-            "attributes": "HN-XX-ADDGFI-00",
+            "attributes": "HN-XX-ADDGFI-04-00",
             "archetype": "Face",
             "edges": "Elven, Voice of the People",
             "foci": "All Natural, Pop Idol",
@@ -32,12 +32,13 @@
             "contacts": [
                 {
                     "friends": [
+                      { "name": "Justin Bale", "archetype": "Manager of Quinn's" }
                     ]
                 },
                 {
                     "acquaintances": [
-                        { "name": "Vex Morrow", "archetype": "Fixer" },
-                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
+                        { "name": "Sal Reznick", "archetype": "Fixer" },
+                        { "name": "Taro Tanaka", "archetype": "Yakuza Member" }
                     ]
                 }
             ]
@@ -66,7 +67,7 @@
         {
             "alias": "Becca Lovesword",
             "photo": "Fade.png",
-            "attributes": "HS-XX-EEE99A-00",
+            "attributes": "HS-XX-EEE99A-02-00",
             "archetype": "Street Thief",
             "edges": "Focused, Wired",
             "foci": "Specialist, Undocumented",
