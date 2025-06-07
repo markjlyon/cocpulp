@@ -3,9 +3,9 @@
         {
             "alias": "Dr. Jasper Caldwell",
             "photo": "JasperCaldwell.png",
-            "attributes": "HS-XY-EHGEED-AG",
+            "attributes": "HS-XY-EHGEED-05-AG",
             "archetype": "Street Doc",
-            "edges": "Focused, Unknown",
+            "edges": "Focused",
             "foci": "Cyberdoc, Deadeye",
             "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
             "contacts": [
@@ -27,8 +27,8 @@
             "attributes": "HN-XX-ADDGFI-04-00",
             "archetype": "Face",
             "edges": "Elven, Voice of the People",
-            "foci": "All Natural, Pop Idol",
-            "skills": "Connect-0, Lead-0, Notice-0, Perform-0, Shoot-0",
+            "foci": "Pop Idol",
+            "skills": "Connect-0, Lead-0, Notice-0, Perform-1, Shoot-0",
             "contacts": [
                 {
                     "friends": [
@@ -38,7 +38,7 @@
                 {
                     "acquaintances": [
                         { "name": "Sal Reznick", "archetype": "Fixer" },
-                        { "name": "Taro Tanaka", "archetype": "Yakuza Member" }
+                        { "name": "Tanaka Taro", "archetype": "Yakuza Member" }
                     ]
                 }
             ]
@@ -46,20 +46,20 @@
         {
             "alias": "Lutten Pillage",
             "photo": "LuttenPillage.png",
-            "attributes": "HS-XY-ADDGFI-00",
-            "archetype": "Face",
-            "edges": "Focused, Unknown",
-            "foci": "Cyberdoc, Deadeye",
-            "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
+            "attributes": "HS-XY-FEDIAA-06-AS",
+            "archetype": "Street Mage",
+            "edges": "On Target, Spellcaster",
+            "foci": "",
+            "skills": "Cast-1, Connect-0, Program-0, Shoot-0",
+            "spells": "Blast, Compulsion, Heal Injury, Muffle",
             "contacts": [
                 {
                     "friends": [
+                        { "name": "Lucy Harrow", "archetype": "Street Mage" }
                     ]
                 },
                 {
                     "acquaintances": [
-                        { "name": "Vex Morrow", "archetype": "Fixer" },
-                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
                     ]
                 }
             ]
@@ -70,7 +70,7 @@
             "attributes": "HS-XX-EEE99A-02-00",
             "archetype": "Street Thief",
             "edges": "Focused, Wired",
-            "foci": "Specialist, Undocumented",
+            "foci": "Specialist",
             "skills": "Extert-0, Notice-0, Shoot-0, Sneak-0, Survival-0",
             "contacts": [
                 {
