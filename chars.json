@@ -10,16 +10,11 @@
             "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
             "spells": "",
             "contacts": [
-                {
-                    "friends": [
-                    ]
-                },
-                {
-                    "acquaintances": [
-                        { "name": "Vex Morrow", "archetype": "Fixer" },
-                        { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
-                    ]
-                }
+                "friends": [],
+                "acquaintances": [
+                    { "name": "Vex Morrow", "archetype": "Fixer" },
+                    { "name": "Dr. Ratt", "archetype": "Body Chop Shop Supplier" }
+                ]
             ]
         },
         {
@@ -32,17 +27,13 @@
             "skills": "Connect-0, Lead-0, Notice-0, Perform-1, Shoot-0",
             "spells": "",
             "contacts": [
-                {
-                    "friends": [
-                      { "name": "Justin Bale", "archetype": "Manager of Quinn's" }
-                    ]
-                },
-                {
-                    "acquaintances": [
-                        { "name": "Sal Reznick", "archetype": "Fixer" },
-                        { "name": "Tanaka Taro", "archetype": "Yakuza Member" }
-                    ]
-                }
+                "friends": [
+                  { "name": "Justin Bale", "archetype": "Manager of Quinn's" }
+                ],
+                "acquaintances": [
+                    { "name": "Sal Reznick", "archetype": "Fixer" },
+                    { "name": "Tanaka Taro", "archetype": "Yakuza Member" }
+                ]
             ]
         },
         {
@@ -55,15 +46,10 @@
             "skills": "Cast-1, Connect-0, Program-0, Shoot-0",
             "spells": "Blast, Compulsion, Heal Injury, Muffle",
             "contacts": [
-                {
                     "friends": [
                         { "name": "Lucy Harrow", "archetype": "Street Mage" }
-                    ]
-                },
-                {
-                    "acquaintances": [
-                    ]
-                }
+                    ],
+                    "acquaintances": []
             ]
         },
         {
@@ -76,16 +62,12 @@
             "skills": "Extert-0, Notice-0, Shoot-0, Sneak-0, Survival-0",
             "spells": "",
             "contacts": [
-                {
-                    "friends": [
-                    ]
-                },
-                {
-                    "acquaintances": [
-                        { "name": "Demi Otto", "archetype": "Arms Dealer" },
-                        { "name": "Dr. Ivana Sleep", "archetype": "Cyber Doc" }
-                    ]
-                }
+                "friends": [
+                ],
+                "acquaintances": [
+                    { "name": "Demi Otto", "archetype": "Arms Dealer" },
+                    { "name": "Dr. Ivana Sleep", "archetype": "Cyber Doc" }
+                ]
             ]
         }
     ]
