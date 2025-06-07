@@ -3,9 +3,9 @@
         {
             "alias": "Dr. Jasper Caldwell",
             "photo": "JasperCaldwell.png",
-            "biograph": "Biograph",
-            "archetype": "Street Samurai",
-            "skills": "Skills",
+            "biograph": "HS-XY-EHGEED-AG",
+            "archetype": "Street Doc",
+            "skills": "Fix-0,Heal-1,Know-0,Notice-0,Shoot-0,Talk-0",
             "contacts": [
                 {
                     "friends": [
