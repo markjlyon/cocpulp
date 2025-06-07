@@ -49,7 +49,7 @@
             "attributes": "HS-XY-FEDIAA-06-AS",
             "archetype": "Street Mage",
             "edges": "On Target, Spellcaster",
-            "foci": "",
+            "foci": "Unique Gift",
             "skills": "Cast-1, Connect-0, Program-0, Shoot-0",
             "spells": "Blast, Compulsion, Heal Injury, Muffle",
             "contacts": [
