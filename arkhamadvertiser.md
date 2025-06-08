@@ -610,6 +610,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- |
+
 | Light Pistol | 1d6 | 10/80 | 200 | 15 | DEX | 1  | 1d8 | x2 |
 | Heavy Pistol | 1d8 | 10/100 | 200 | 8 | DEX | 1  | 1d6 | x3 |
 | Advanced Bow | 1d8 | 30/200 | 500 | 1 | DEX | 2  | 1d8+1 | x3 |
