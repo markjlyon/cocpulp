@@ -608,6 +608,12 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 ## WEAPONS
 
+| Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Light Pistol | 1d6 | 10/80 | 200 | 15 | DEX | 1  | 1d8 | x2 |
+| Heavy Pistol | 1d8 | 10/100 | 200 | 8 | DEX | 1  | 1d6 | x2 |
+
+
 ---
 
 ## CYBERWEAR
