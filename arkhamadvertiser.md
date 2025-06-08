@@ -628,7 +628,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 | Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Grenade, Flash | Special | 10/30 | 50 | None | DEX | 1 | - | - |
+| Stun Baton | 1d6^ | - | 500 | None | STR | 1 | - | - |
 
 
 ### ^ This weapon’s damage is always non-lethal, unless desired otherwise. Non-lethal hits don’t roll the Trauma Die.
