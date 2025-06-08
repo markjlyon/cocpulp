@@ -611,9 +611,29 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Unarmed Attack | 1d2^ | - | - | - | STR/DEX | - | 1d6 | x1 |
-| Knife | 1d4 | 10/20 | 20 | - | STR/DEX | 1/AC 15 | 1d6 | x3 |
+| Knife | 1d4 | 10/20 | 20 | 1/AC 15 | STR/DEX | 1 | 1d6 | x3 |
+| Club | 1d4^ | 10/20 | - | 1/AC 18 | STR | 1 | 1d6 | x2 |
+| Spear | 1d6 | 10/20 | 50 | 2/AC 13  | STR/DEX | 1 | 1d8 | x3 |
+| Sword | 1d8 | - | 200 | 1/AC 15  | STR/DEX | 1 | 1d6 | x3 |
+| Big Sword | 2d6 | - | 500 | 2/AC 15  | STR | 2* | 1d8 | x3 |
+| Big Club | 1d10^ | - | 100 | 2/AC 18 | STR | 2* | 1d8 | x3 |
+| Advanced Knife | 1d6 | 10/20 | 200 | 2/AC 15 | STR/DEX | 1 | 1d8 | x3 |
+| Advanced Sword | 1d10 | - | 1000 | 3/AC 18 | STR/DEX | 1 | 1d8 | x3 |
+| Advanced Big Sword | 2d8 | - | 2500 | 4/AC 18 | STR | 2* | 1d8 | x3 |
+| Advanced Club | 1d8^ | - | 500 | 2/AC 18 | STR | 1 | 1d8 | x3 |
+| Grenade, Flash | Special | 10/30 | 50 | None | DEX | 1 | - | - |
+| Grenade, Frag | 2d6 | 10/30 | 100@ | None | DEX | 1 | 1d8 | x3 |
+| Grenade, Gas | 1d10^ | 10/30 | 50 | None | DEX | 1 | - | - |
+| Grenade, Smoke | - | 10/30 | 25 | None | DEX | 1 | - | - |
+
+| Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Grenade, Flash | Special | 10/30 | 50 | None | DEX | 1 | - | - |
+
 
 ### ^ This weapon’s damage is always non-lethal, unless desired otherwise. Non-lethal hits don’t roll the Trauma Die.
+### * This is a two-handed weapon, making it impossible to have a Readied item in the user’s off-hand
+### @ This weapon requires an applicable Contact to buy, being generally illegal for open sale
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
