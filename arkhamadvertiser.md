@@ -624,6 +624,8 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Automatic Rifle | 2d8# | 200/400 | 10,000 | 10 | DEX | 4  | 1d10 | x3 |
 
 ---
+| Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Flame Thrower | 2d6F | 5m cone | 8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
 
 
