@@ -608,6 +608,13 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 ## WEAPONS
 
+| Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Unarmed Attack | 1d2^ | - | - | - | STR/DEX | - | 1d6 | x1 |
+| Knife | 1d4 | 10/20 | 20 | - | STR/DEX | 1/AC 15 | 1d6 | x3 |
+
+^ This weapon’s damage is always non-lethal, unless desired otherwise. Non-lethal hits don’t roll the Trauma Die.
+
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Light Pistol | 1d6 | 10/80 | 200 | 15 | DEX | 1  | 1d8 | x2 |
