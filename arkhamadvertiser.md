@@ -611,20 +611,20 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Unarmed Attack | 1d2^ | - | - | - | STR/DEX | - | 1d6 | x1 |
-| Knife | 1d4 | 10/20 | 20 | 1/AC 15 | STR/DEX | 1 | 1d6 | x3 |
+| Knife | 1d4 | 10/20 | ¥20 | 1/AC 15 | STR/DEX | 1 | 1d6 | x3 |
 | Club | 1d4^ | 10/20 | - | 1/AC 18 | STR | 1 | 1d6 | x2 |
-| Spear | 1d6 | 10/20 | 50 | 2/AC 13  | STR/DEX | 1 | 1d8 | x3 |
-| Sword | 1d8 | - | 200 | 1/AC 15  | STR/DEX | 1 | 1d6 | x3 |
-| Big Sword | 2d6 | - | 500 | 2/AC 15  | STR | 2* | 1d8 | x3 |
-| Big Club | 1d10^ | - | 100 | 2/AC 18 | STR | 2* | 1d8 | x3 |
-| Advanced Knife | 1d6 | 10/20 | 200 | 2/AC 15 | STR/DEX | 1 | 1d8 | x3 |
-| Advanced Sword | 1d10 | - | 1000 | 3/AC 18 | STR/DEX | 1 | 1d8 | x3 |
-| Advanced Big Sword | 2d8 | - | 2500 | 4/AC 18 | STR | 2* | 1d8 | x3 |
-| Advanced Club | 1d8^ | - | 500 | 2/AC 18 | STR | 1 | 1d8 | x3 |
-| Grenade, Flash | Special | 10/30 | 50 | None | DEX | 1 | - | - |
-| Grenade, Frag | 2d6 | 10/30 | 100@ | None | DEX | 1 | 1d8 | x3 |
-| Grenade, Gas | 1d10^ | 10/30 | 50 | None | DEX | 1 | - | - |
-| Grenade, Smoke | - | 10/30 | 25 | None | DEX | 1 | - | - |
+| Spear | 1d6 | 10/20 | ¥50 | 2/AC 13  | STR/DEX | 1 | 1d8 | x3 |
+| Sword | 1d8 | - | ¥200 | 1/AC 15  | STR/DEX | 1 | 1d6 | x3 |
+| Big Sword | 2d6 | - | ¥500 | 2/AC 15  | STR | 2* | 1d8 | x3 |
+| Big Club | 1d10^ | - | ¥100 | 2/AC 18 | STR | 2* | 1d8 | x3 |
+| Advanced Knife | 1d6 | 10/20 | ¥200 | 2/AC 15 | STR/DEX | 1 | 1d8 | x3 |
+| Advanced Sword | 1d10 | - | ¥1000 | 3/AC 18 | STR/DEX | 1 | 1d8 | x3 |
+| Advanced Big Sword | 2d8 | - | ¥2500 | 4/AC 18 | STR | 2* | 1d8 | x3 |
+| Advanced Club | 1d8^ | - | ¥500 | 2/AC 18 | STR | 1 | 1d8 | x3 |
+| Grenade, Flash | Special | 10/30 | ¥50 | None | DEX | 1 | - | - |
+| Grenade, Frag | 2d6 | 10/30 | ¥100@ | None | DEX | 1 | 1d8 | x3 |
+| Grenade, Gas | 1d10^ | 10/30 | ¥50 | None | DEX | 1 | - | - |
+| Grenade, Smoke | - | 10/30 | ¥25 | None | DEX | 1 | - | - |
 
 | Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -637,18 +637,18 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Light Pistol | 1d6 | 10/80 | 200 | 15 | DEX | 1  | 1d8 | x2 |
-| Heavy Pistol | 1d8 | 10/100 | 200 | 8 | DEX | 1  | 1d6 | x3 |
-| Advanced Bow | 1d8 | 30/200 | 500 | 1 | DEX | 2  | 1d8+1 | x3 |
-| Rifle | 1d10+2 | 200/400 | 1000 | 6 | DEX | 2  | 1d8 | x3 |
-| Combat Rifle | 1d12* | 100/300 | 2500@ | 30 | DEX | 2  | 1d8 | x3 |
-| Submachine Gun | 1d8* | 30/100 | 2000@ | 20 | DEX | 1  | 1d6 | x2 |
-| Shotgun | 3d4 | 10/30 | 200 | 2 | DEX | 2  | 1d10 | x3 |
-| Semi-Auto Shotgun | 3d4 | 10/30 | 1000 | 6 | DEX | 2  | 1d10 | x3 |
-| Combat Shotgun | 3d4* | 10/30 | 3000@ | 12 | DEX | 2  | 1d10 | x3 |
-| Sniper Rifle | 2d8 | 1000/2000 | 3000 | 1 | DEX | 2  | 1d10 | x4 |
-| Taser Pistol | 1d8 | 10/15 | 500 | 8 | DEX | 2 | - | - |
-| Automatic Rifle | 2d8# | 200/400 | 10,000 | 10 | DEX | 4  | 1d10 | x3 |
+| Light Pistol | 1d6 | 10/80 | ¥200 | 15 | DEX | 1  | 1d8 | x2 |
+| Heavy Pistol | 1d8 | 10/100 | ¥200 | 8 | DEX | 1  | 1d6 | x3 |
+| Advanced Bow | 1d8 | 30/200 | ¥500 | 1 | DEX | 2  | 1d8+1 | x3 |
+| Rifle | 1d10+2 | 200/400 | ¥1000 | 6 | DEX | 2  | 1d8 | x3 |
+| Combat Rifle | 1d12* | 100/300 | ¥2500@ | 30 | DEX | 2  | 1d8 | x3 |
+| Submachine Gun | 1d8* | 30/100 | ¥2000@ | 20 | DEX | 1  | 1d6 | x2 |
+| Shotgun | 3d4 | 10/30 | ¥200 | 2 | DEX | 2  | 1d10 | x3 |
+| Semi-Auto Shotgun | 3d4 | 10/30 | ¥1000 | 6 | DEX | 2  | 1d10 | x3 |
+| Combat Shotgun | 3d4* | 10/30 | ¥3000@ | 12 | DEX | 2  | 1d10 | x3 |
+| Sniper Rifle | 2d8 | 1000/2000 | ¥3000 | 1 | DEX | 2  | 1d10 | x4 |
+| Taser Pistol | 1d8 | 10/15 | ¥500 | 8 | DEX | 2 | - | - |
+| Automatic Rifle | 2d8# | 200/400 | ¥10,000 | 10 | DEX | 4  | 1d10 | x3 |
 
 
 ### * This weapon may use burst fire when attacking, firing three rounds to gain +2 to hit and damage rolls.
@@ -657,7 +657,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 ---
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Flame Thrower | 2d6F | 5m cone | 8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
+| Flame Thrower | 2d6F | 5m cone | ¥8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
 
 
 ---
