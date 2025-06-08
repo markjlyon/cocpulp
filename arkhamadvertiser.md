@@ -635,8 +635,8 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Stun Baton | 1d6^ | - | 500 | None | STR | 1 | - | - |
 | Monomolecular Whip | 1d10+1 | - | 2500 | 3/AC 17 | DEX | 1 | 1d8 | x3 |
 
-### Special Rules:  Stun Baton - On hit, target must pass Physical save or be stunned for 1 round.
-### Special Rules:  Monomolecular Whip - Can bypass most light armor, -1 to Melee AC. If the attacker rolls a natural 1, snap back and nick the user and take 1d4 damage
+### Stun Baton - Special Rules: On hit, target must pass Physical save or be stunned for 1 round.
+### Monomolecular Whip -Special Rules: Can bypass most light armor, -1 to Melee AC. If the attacker rolls a natural 1, snap back and nick the user and take 1d4 damage
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -662,7 +662,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Flame Thrower | 2d6F | 5m cone | ¥8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
 
-### Special Rules: Flame Thrower - Ignores cover AC bonus. Sets flammable targets ablaze on hit (1d4 per round for 2 rounds).
+### Flame Thrower - Special Rules: Ignores cover AC bonus. Sets flammable targets ablaze on hit (1d4 per round for 2 rounds).
 
 ---
 
