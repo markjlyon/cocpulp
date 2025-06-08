@@ -608,7 +608,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 ## WEAPONS
 
-| Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
+| Melee and Thrown Weapons  | Damage | Range | Cost | Shock (DMG/ AC ##)| Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Unarmed Attack | 1d2^ | - | - | - | STR/DEX | - | 1d6 | x1 |
 | Knife | 1d4 | 10/20 | ¥20 | 1/AC 15 | STR/DEX | 1 | 1d6 | x3 |
