@@ -608,7 +608,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 ## WEAPONS
 
-| Melee and Thrown Weapons  | Damage | Range | Cost | Shock (DMG/ AC ##)| Attribute | Encumberance | Trauma Die | Trauma Rating |
+| Melee and Thrown Weapons  | Damage | Range | Cost | Shock (DMG/ AC ##) | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Unarmed Attack | 1d2^ | - | - | - | STR/DEX | - | 1d6 | x1 |
 | Knife | 1d4 | 10/20 | ¥20 | 1/AC 15 | STR/DEX | 1 | 1d6 | x3 |
@@ -626,14 +626,17 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Grenade, Gas | 1d10^ | 10/30 | ¥50 | None | DEX | 1 | - | - |
 | Grenade, Smoke | - | 10/30 | ¥25 | None | DEX | 1 | - | - |
 
-| Melee and Thrown Weapons  | Damage | Range | Cost | Shock | Attribute | Encumberance | Trauma Die | Trauma Rating |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Stun Baton | 1d6^ | - | 500 | None | STR | 1 | - | - |
-
-
 ### ^ This weapon’s damage is always non-lethal, unless desired otherwise. Non-lethal hits don’t roll the Trauma Die.
 ### * This is a two-handed weapon, making it impossible to have a Readied item in the user’s off-hand
 ### @ This weapon requires an applicable Contact to buy, being generally illegal for open sale
+
+| Melee and Thrown Weapons  | Damage | Range | Cost | Shock (DMG/ AC ##) | Attribute | Encumberance | Trauma Die | Trauma Rating |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Stun Baton | 1d6^ | - | 500 | None | STR | 1 | - | - |
+| Monomolecular Whip | 1d10+1 | - | 2500 | 3/AC 17 | DEX | 1 | 1d8 | x3 |
+
+### Special Rules:  Stun Baton - On hit, target must pass Physical save or be stunned for 1 round.
+### Special Rules:  Monomolecular Whip - Can bypass most light armor, -1 to Melee AC. If the attacker rolls a natural 1, snap back and nick the user and take 1d4 damage
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -659,6 +662,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Flame Thrower | 2d6F | 5m cone | ¥8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
 
+### Special Rules: Flame Thrower - Ignores cover AC bonus. Sets flammable targets ablaze on hit (1d4 per round for 2 rounds).
 
 ---
 
