@@ -638,8 +638,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Monomolecular Whip | 1d10+1 | - | 2500 | 3/AC 17 | DEX | 1 | 1d8 | x3 |
 
 ### Stun Baton - Special Rules: On hit, target must pass Physical save or be stunned for 1 round.
-### Monomolecular Whip -Special Rules: Can bypass most light armor, -1 to Melee AC. If the attacker rolls a natural 1, snap back and nick the user and take 1d4 damage
-
+### Monomolecular Whip -Special Rules: Can bypass most light armor, -1 to Melee AC. If the attacker rolls a natural 1, attacker takes Shock Damage
 ---
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
