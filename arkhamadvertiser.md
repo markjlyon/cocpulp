@@ -609,8 +609,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 ## WEAPONS
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
-| ------------- | ------------- |
-
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Light Pistol | 1d6 | 10/80 | 200 | 15 | DEX | 1  | 1d8 | x2 |
 | Heavy Pistol | 1d8 | 10/100 | 200 | 8 | DEX | 1  | 1d6 | x3 |
 | Advanced Bow | 1d8 | 30/200 | 500 | 1 | DEX | 2  | 1d8+1 | x3 |
@@ -623,7 +622,8 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Sniper Rifle | 2d8 | 1000/2000 | 3000 | 1 | DEX | 2  | 1d10 | x4 |
 | Taser Pistol | 1d8 | 10/15 | 500 | 8 | DEX | 2 | - | - |
 | Automatic Rifle | 2d8# | 200/400 | 10,000 | 10 | DEX | 4  | 1d10 | x3 |
-| ------------- | ------------- |
+
+---
 | Flame Thrower | 2d6F | 5m cone | 8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
 
 
