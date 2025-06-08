@@ -613,7 +613,7 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Unarmed Attack | 1d2^ | - | - | - | STR/DEX | - | 1d6 | x1 |
 | Knife | 1d4 | 10/20 | 20 | - | STR/DEX | 1/AC 15 | 1d6 | x3 |
 
-^ This weapon’s damage is always non-lethal, unless desired otherwise. Non-lethal hits don’t roll the Trauma Die.
+# ^ This weapon’s damage is always non-lethal, unless desired otherwise. Non-lethal hits don’t roll the Trauma Die.
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -630,6 +630,10 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 | Taser Pistol | 1d8 | 10/15 | 500 | 8 | DEX | 2 | - | - |
 | Automatic Rifle | 2d8# | 200/400 | 10,000 | 10 | DEX | 4  | 1d10 | x3 |
 
+
+# * This weapon may use burst fire when attacking, firing three rounds to gain +2 to hit and damage rolls.
+# @ This weapon requires an applicable Contact to buy, being generally illegal for open sale
+# # This weapon can fire to suppress if braced against a solid support or the gunner is prone
 ---
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
