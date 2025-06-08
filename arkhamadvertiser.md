@@ -630,6 +630,8 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 ### * This is a two-handed weapon, making it impossible to have a Readied item in the user’s off-hand
 ### @ This weapon requires an applicable Contact to buy, being generally illegal for open sale
 
+---
+
 | Melee and Thrown Weapons  | Damage | Range | Cost | Shock (DMG/ AC ##) | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Stun Baton | 1d6^ | - | 500 | None | STR | 1 | - | - |
@@ -637,6 +639,8 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 
 ### Stun Baton - Special Rules: On hit, target must pass Physical save or be stunned for 1 round.
 ### Monomolecular Whip -Special Rules: Can bypass most light armor, -1 to Melee AC. If the attacker rolls a natural 1, snap back and nick the user and take 1d4 damage
+
+---
 
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -657,7 +661,9 @@ Warning: The Hollowed Wood is sacred, and outsiders who seek to exploit its ener
 ### * This weapon may use burst fire when attacking, firing three rounds to gain +2 to hit and damage rolls.
 ### @ This weapon requires an applicable Contact to buy, being generally illegal for open sale
 ### # This weapon can fire to suppress if braced against a solid support or the gunner is prone
+
 ---
+
 | Firearm  | Damage | Range | Cost | Magazine | Attribute | Encumberance | Trauma Die | Trauma Rating |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Flame Thrower | 2d6F | 5m cone | ¥8,000 | 3 (fuel) | DEX | 3 | 1d10 | x2 |
