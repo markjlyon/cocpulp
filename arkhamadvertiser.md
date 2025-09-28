@@ -54,7 +54,7 @@ USS Eventide (CNC-18701/G)
 
 ## ATTRIBUTES
 
-To generate a character’s attributes, roll 3d6 six times and assign the results ~~in order~~ to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+To generate a character’s attributes, roll 3d6 six times and assign the results in order to Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
 
 If you prefer not to roll, you may instead assign the following scores to your attributes in any order you wish: 14, 12, 11, 10, 9, and 7. If you assign your scores, you cannot replace one of them with a 14.
 
