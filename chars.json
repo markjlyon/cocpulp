@@ -1,7 +1,7 @@
 {
     "chars": [
         {
-            "alias": "David",
+            "name": "David",
             "photo": "JasperCaldwell.png",
             "attributes": "",
             "archetype": "",
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "alias": "Joey",
+            "name": "Joey",
             "photo": "NyxaLux.png",
             "attributes": "",
             "archetype": "",
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "alias": "Lukus",
+            "name": "Lukus",
             "photo": "MarcusRedmoon.png",
             "attributes": "",
             "archetype": "",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "alias": "Mark",
+            "name": "Mark",
             "photo": "BeccaLovesword.png",
             "attributes": "",
             "archetype": "",
