@@ -4,24 +4,24 @@
 
 **GO-1: Prime Directive** — Do not interfere with the natural development of pre–faster-than-light (FTL) societies; no cultural manipulation or tech uplift, except to prevent imminent extinction.
 
-GO-2: Temporal Integrity — Do nothing that alters established history; report and contain temporal anomalies immediately.
+**GO-2: Temporal Integrity** — Do nothing that alters established history; report and contain temporal anomalies immediately.
 
-GO-3: First-Contact Protocol — On approaching unknown vessels or worlds: yellow alert, passive sensors first, no weapons lock or landing without cause or consent.
+**GO-3: First-Contact Protocol** — On approaching unknown vessels or worlds: yellow alert, passive sensors first, no weapons lock or landing without cause or consent.
 
-GO-4: Rules of Engagement & Rescue — Use the minimum force necessary; safeguard noncombatants; answer bona fide distress calls when tactically feasible.
+**GO-4: Rules of Engagement & Rescue** — Use the minimum force necessary; safeguard noncombatants; answer bona fide distress calls when tactically feasible.
 
-GO-5: Sentient Rights & Asylum — Treat all sapients humanely; no torture or coercive experiments; honor lawful asylum requests aboard USC vessels.
+**GO-5: Sentient Rights & Asylum** — Treat all sapients humanely; no torture or coercive experiments; honor lawful asylum requests aboard USC vessels.
 
-GO-6: Biosecurity & Quarantine — Treat unknown biology as hazardous until cleared; enforce containment, decontamination, and medical authority in emergencies.
+**GO-6: Biosecurity & Quarantine** — Treat unknown biology as hazardous until cleared; enforce containment, decontamination, and medical authority in emergencies.
 
-GO-7: Cognition Ethics — Recognize sapient machine or psionic minds as persons; quarantine unvetted code or artifacts; no invasive neural access without informed consent.
+**GO-7: Cognition Ethics** — Recognize sapient machine or psionic minds as persons; quarantine unvetted code or artifacts; no invasive neural access without informed consent.
 
-GO-8: FTL Navigation Safety — No blind FTL jumps. Compute and verify a lawful solution (beacon or independent starfix). No FTL entry/exit inside inhabited or inner regions; jump only from the system edge with a 
+**GO-8: FTL Navigation Safety** — No blind FTL jumps. Compute and verify a lawful solution (beacon or independent starfix). No FTL entry/exit inside inhabited or inner regions; jump only from the system edge with a 
 verified solution, and log all transits.
 
-GO-9: Command & Log Integrity — Observe the chain of command and posted succession; maintain tamper-proof logs; record and authenticate orders.
+**GO-9: Command & Log Integrity** — Observe the chain of command and posted succession; maintain tamper-proof logs; record and authenticate orders.
 
-GO-10: Proscribed Weapons — Planetary-scale effects or WMD employment requires flag authorization; no bombardment of population centers or pre-FTL worlds.
+**GO-10: Proscribed Weapons** — Planetary-scale effects or WMD employment requires flag authorization; no bombardment of population centers or pre-FTL worlds.
 
 ---
 
