@@ -68,7 +68,7 @@ Next, you may either pick two other skills from the Learning table for your back
 
 If you pick skills, you can select exactly the talents you want for your hero, while going with random rolls allows your character a little wider range of competence and the option of attribute improvements at the cost of perfect control over their development. If you pick skills, you may pick the same skill twice if you wish, to improve its starting proficiency.
 
-No operator can start with a skill level above level-1.
+No personnel can start with a skill level above level-1.
 
 Rolls on the Growth table that improve your basic attributes can boost them up to a maximum of 18.
 
@@ -157,7 +157,7 @@ SWN, pg 29
 
 ## HIT POINTS
 
-Novice operators roll 1d6 to determine their starting hit points, to which they add their Constitution modifier.
+Novice personnel roll 1d6 to determine their starting hit points, to which they add their Constitution modifier.
 
 ## ATTACK BONUS
 
