@@ -76,17 +76,11 @@ If the bonus is +2, you may split the points between two different attributes of
 
 ## Class
 
-Warrior
-
-Expert
-
-Psionic
-
-Adventurer
+Choose your class, representing those talents you have that are most relevant to an adventurer’s lifestyle. If your hero isn’t well-described by Warrior, Expert, or Psychic, you can choose Adventurer and mix your class abilities.
 
 ## FOCI
 
-A beginning PC can pick one Focus. If you’ve taken the Focused Edge, you can make a second pick, or take the second level of your initial Focus. You’ll gain additional Focus picks as you rise in character level.
+Choose your foci, representing the side talents or particular specializations of your hero. You can pick one level of a focus of your choice. Characters with the Expert class or the Partial Expert feature of the Adventurer class get one level of a non-combat, non-psychic focus for free in addition to this. They can spend both levels on the same focus, starting with level 2 in it if they wish. Characters with the Warrior class or Partial Warrior feature of the Adventurer class can do the same in choosing one level of a combat focus.
 
 ### XENOBIOLOGY
 
@@ -157,7 +151,7 @@ SWN, pg 29
 
 ## HIT POINTS
 
-Novice personnel roll 1d6 to determine their starting hit points, to which they add their Constitution modifier.
+Roll your maximum hit points on 1d6, adding your Constitution modifier. Even a penalty can’t reduce your hit points below 1. Warrior PCs and Adventurers with the Partial Warrior class option add 2 points to this total. Hit points indicate how close your hero is to being defeated.
 
 ## ATTACK BONUS
 
