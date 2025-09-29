@@ -2,7 +2,7 @@
 
 ## USC GENERAL ORDERS (GO)
 
-GO-1: Prime Directive — Do not interfere with the natural development of pre–faster-than-light (FTL) societies; no cultural manipulation or tech uplift, except to prevent imminent extinction.
+**GO-1: Prime Directive** — Do not interfere with the natural development of pre–faster-than-light (FTL) societies; no cultural manipulation or tech uplift, except to prevent imminent extinction.
 
 GO-2: Temporal Integrity — Do nothing that alters established history; report and contain temporal anomalies immediately.
 
