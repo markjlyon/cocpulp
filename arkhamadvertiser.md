@@ -141,6 +141,16 @@ Origin Skill: You gain Lead-0 or Sneak-0 (your choice).
 Drawback — Hubris:
 Zendai arrogance and treachery are legendary. NPC reaction rolls toward you start one category worse unless the NPC is another Zendai or deeply impressed by your superiority. In addition, when acting against your family/descendants, you suffer disadvantage (roll twice, take worse) on all relevant checks — Zendai love their children fiercely.
 
+### Wired
+
+You’re professionally chromed. You start play with a vetted suite of cyberware and the know-how to keep it running. You may begin play with up to $50,000 worth of SWN cyber (May be expanded later). 
+
+INT/Fix @ 8+ — routine upkeep, calibration, swapping parts.
+
+Software/firmware-heavy systems: INT/Program @ 8+.
+
+Bio-integration/tissue issues: INT/Heal @ 8+ (often alongside Fix).
+
 ## NON-PSYCHIC SKILL
 
 Now pick one non-psychic skill
