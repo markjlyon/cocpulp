@@ -45,7 +45,7 @@ Tech level 6 - ???
 USS Eventide (CNC-18701/G)
 
 ---
-![USS Eventide CNC-18701/G](https://raw.githubusercontent.com/markjlyon/cocpulp/main/Eventide.png)
+![USS Eventide CNC-18701/G](https://farfleet.com/coc/Eventide.png)
 ---
 
 # RULES
