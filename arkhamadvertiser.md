@@ -44,7 +44,7 @@ Tech level 6 - ???
 ## STARSHIPS
 USS Eventide (CNC-18701/G)
 
-![USS Eventide CNC-18701/G](https://farfleet.com/coc/Eventide.png|600)
+![USS Eventide CNC-18701/G](https://farfleet.com/coc/Eventide.png)
 ---
 
 # RULES
