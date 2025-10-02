@@ -2,7 +2,7 @@
     "chars": [
         {
             "name": "David",
-            "photo": "JasperCaldwell.png",
+            "photo": "green.png",
             "attributes": "",
             "archetype": "",
             "edges": "",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Joey",
-            "photo": "NyxaLux.png",
+            "photo": "green.png",
             "attributes": "",
             "archetype": "",
             "edges": "",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Lukus",
-            "photo": "MarcusRedmoon.png",
+            "photo": "green.png",
             "attributes": "",
             "archetype": "",
             "edges": "",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Mark",
-            "photo": "BeccaLovesword.png",
+            "photo": "green.png",
             "attributes": "",
             "archetype": "",
             "edges": "",
