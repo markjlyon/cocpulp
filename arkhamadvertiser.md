@@ -136,10 +136,9 @@ You are descended from the original homo-superiors created by the legendary Drag
 
 Strong Attribute: Choose either INT or CHA at character creation; that attribute gains +1 (max +3 modifier).
 
-Origin Skill: You gain Lead-0 or Sneak-0 (your choice).
+Origin Skill: You are immune to psionic effects that target your mind (anything that would call for a Mental save or directly read/alter thoughts, emotions, memories, or senses). Such powers fail against you. Not covered: Physical psionics still work (telekinesis, pyro/teleportation, bio-heals that knit flesh, etc.).
 
-Drawback — Hubris:
-Zendai arrogance and treachery are legendary. NPC reaction rolls toward you start one category worse unless the NPC is another Zendai or deeply impressed by your superiority. In addition, when acting against your family/descendants, you suffer disadvantage (roll twice, take worse) on all relevant checks — Zendai love their children fiercely.
+Drawbacks - USeful Immunity: You cannot be a Psychic or take Partial Psychic. Beneficial mind-targeting powers also don’t work on you (no telepathic comms, no biopsionic calm, etc.).
 
 ### Wired
 
