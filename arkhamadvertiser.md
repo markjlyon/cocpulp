@@ -44,6 +44,20 @@ Tech level 6 - ???
 ## STARSHIPS
 USS Eventide (CNC-18701/G)
 
+Base Hull Stats Fleet Cruiser
+
+Cost $10m - Speed 1 -	Armor 15 -	HP 60	-	Crew 50/200 - AC 14 - Power 50 - Mass 30 - Hardpoints 10
+
+Weapons: Charged particle caster (+5/3d6 AP 15, Clumsy), Flak emitter battery (+2/2d6 (auto-targeted) AP 10, Flak), Flak emitter battery (+2/2d6 (auto-targeted) AP 10, Flak), Plasma beam (+5/3d6 AP 10), Plasma beam (+5/3d6 AP 10)
+
+Defenses: Hardened polyceramic overlay
+
+Ammunition: None
+
+Fittings: Spike drive-3, Armory, 2 Auto-targeting systems, Automation support with 50 automation support bots, Cargo space (200 tons), Cold sleep pods, Emissions dampers, Extended medbay, Mobile extractor, Ship's locker, Teleportation pads, Tractor beams
+
+Mods: Eternal Reactor (Fix-2)
+
 ![USS Eventide CNC-18701/G](https://farfleet.com/coc/Eventide.png)
 
 ---
