@@ -8,7 +8,7 @@
             "class": "",
             "foci": "",
             "skills": "",
-            "psionics": ""
+            "psionics": []
         },
         {
             "name": "Xavier Holt",
@@ -36,10 +36,6 @@
             "foci": "",
             "skills": "",
             "psionics": [
-                "Telepathy": {
-                },
-                "Telekinesis": {
-                }
             ]
         }
     ]
