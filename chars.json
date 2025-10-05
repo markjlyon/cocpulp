@@ -8,7 +8,7 @@
             "class": "",
             "foci": "",
             "skills": "",
-            "psionics": []
+            "psionics": ""
         },
         {
             "name": "Xavier Holt",
@@ -18,14 +18,7 @@
             "class": "",
             "foci": "",
             "skills": "",
-            "psionics": [
-                "power": [
-                    {
-                    "name": "Biopsionics",
-                    "level": "1"
-                    }
-                ]
-            ]
+            "psionics": ""
         },
         {
             "name": "Katherine Elizabeth Quatermass",
@@ -35,8 +28,7 @@
             "class": "",
             "foci": "",
             "skills": "",
-            "psionics": [
-            ]
+            "psionics": ""
         }
     ]
 }
