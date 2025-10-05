@@ -5,7 +5,7 @@
             "photo": "green.png",
             "attributes": "ABCDEF",
             "background": "GHIJKL",
-            "class": "Expert",
+            "char_class": "Expert",
             "foci": "Origin - Zendai, Star Captain",
             "skills": "SKILLS",
             "psionics": "PSIONICS"
