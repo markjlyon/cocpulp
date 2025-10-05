@@ -3,12 +3,12 @@
         {
             "name": "Yazmin Sabra",
             "photo": "green.png",
-            "attributes": "",
-            "background": "",
-            "class": "",
-            "foci": "",
-            "skills": "",
-            "psionics": ""
+            "attributes": "ABCDEF",
+            "background": "GHIJKL",
+            "class": "Expert",
+            "foci": "Origin - Zendai, Star Captain",
+            "skills": "SKILLS",
+            "psionics": "PSIONICS"
         }
     ]
 }
