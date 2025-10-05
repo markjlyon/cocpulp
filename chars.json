@@ -18,7 +18,12 @@
             "class": "",
             "foci": "",
             "skills": "",
-            "psionics": ""
+            "psionics": [
+                "Biopsionics": {
+                },
+                "Precognition": {
+                }
+            ]
         },
         {
             "name": "Katherine Elizabeth Quatermass",
@@ -28,7 +33,12 @@
             "class": "",
             "foci": "",
             "skills": "",
-            "psionics": ""
+            "psionics": [
+                "Telepathy": {
+                },
+                "Telekinesis": {
+                }
+            ]
         }
     ]
 }
