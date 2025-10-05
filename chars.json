@@ -1,84 +1,34 @@
 {
     "chars": [
         {
-            "name": "David",
+            "name": "Yazmin Sabra",
             "photo": "green.png",
             "attributes": "",
-            "archetype": "",
-            "edges": "",
+            "background": "",
+            "class": "",
             "foci": "",
             "skills": "",
-            "spells": "",
-            "contacts": [
-                {
-                    "friends": [
-                      { "name": "", "archetype": "" }
-                    ],
-                    "acquaintances": [
-                        { "name": "", "archetype": "" }
-                    ]
-                }
-            ]
+            "psionics": ""
         },
         {
-            "name": "Joey",
+            "name": "Xavier Holt",
             "photo": "green.png",
             "attributes": "",
-            "archetype": "",
-            "edges": "",
+            "background": "",
+            "class": "",
             "foci": "",
             "skills": "",
-            "spells": "",
-            "contacts": [
-                {
-                    "friends": [
-                      { "name": "", "archetype": "" }
-                    ],
-                    "acquaintances": [
-                        { "name": "", "archetype": "" }
-                    ]
-                }
-            ]
+            "psionics": ""
         },
         {
-            "name": "Lukus",
+            "name": "Katherine Elizabeth Quatermass",
             "photo": "green.png",
             "attributes": "",
-            "archetype": "",
-            "edges": "",
+            "background": "",
+            "class": "",
             "foci": "",
             "skills": "",
-            "spells": "",
-            "contacts": [
-                {
-                    "friends": [
-                      { "name": "", "archetype": "" }
-                    ],
-                    "acquaintances": [
-                        { "name": "", "archetype": "" }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Mark",
-            "photo": "green.png",
-            "attributes": "",
-            "archetype": "",
-            "edges": "",
-            "foci": "",
-            "skills": "",
-            "spells": "",
-            "contacts": [
-                {
-                    "friends": [
-                      { "name": "", "archetype": "" }
-                    ],
-                    "acquaintances": [
-                        { "name": "", "archetype": "" }
-                    ]
-                }
-            ]
+            "psionics": ""
         }
     ]
 }
