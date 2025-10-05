@@ -19,10 +19,12 @@
             "foci": "",
             "skills": "",
             "psionics": [
-                "Biopsionics": {
-                },
-                "Precognition": {
-                }
+                "power": [
+                    {
+                    "name": "Biopsionics",
+                    "level": "1"
+                    }
+                ]
             ]
         },
         {
