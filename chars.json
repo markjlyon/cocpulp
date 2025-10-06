@@ -8,7 +8,7 @@
             "char_class": "Expert",
             "foci": "Origin - Zendai, Star Captain",
             "skills": "Lead-1, Talk-0",
-            "psionics": []
+            "psionics": {}
         },
         {
             "name": "Xavier Holt, Medical",
@@ -18,32 +18,30 @@
             "char_class": "Psychic",
             "foci": "UNDETERMINED",
             "skills": "Heal-0, Know-0",
-            "psionics": [
-                {
-                    "effort" : "3",
-                    "powers": [
-                        {
-                            "power": "Biopsionics",
-                            "level": "1",
-                            "techniques": [
-                                {
-                                    "name": "Psychic Surror",
-                                    "level": "1"
-                                },
-                                {
-                                    "name": "Mastered Succor",
-                                    "level": "1"
-                                }
-                            ]
-                        },
-                        {
-                            "power": "Precognition",
-                            "level": "0",
-                            "techniques": []
-                        }
-                    ]
-                }
-            ]
+            "psionics": {
+                "effort" : "3",
+                "powers": [
+                    {
+                        "power": "Biopsionics",
+                        "level": "1",
+                        "techniques": [
+                            {
+                                "name": "Psychic Surror",
+                                "level": "1"
+                            },
+                            {
+                                "name": "Mastered Succor",
+                                "level": "1"
+                            }
+                        ]
+                    },
+                    {
+                        "power": "Precognition",
+                        "level": "0",
+                        "techniques": []
+                    }
+                ]
+            }
         },
         {
             "name": "Katherine Elizabeth Quatermass, PSI Corps",
