@@ -21,26 +21,26 @@
             "psionics": [
                 {
                     "name" : "Effort",
-                    "value": "3",
+                    "level": "3",
                     "powers": ""
                 },
                 {
                     "name" : "Biopsionics",
-                    "value": "1",
+                    "level": "1",
                     "powers": [
                         {
                             "name": "Psychic Surror",
-                            "value": "1"
+                            "level": "1"
                         },
                         {
                             "name": "Mastered Succor",
-                            "value": "1"
+                            "level": "1"
                         }
                     ]
                 },
                 {
                     "name" : "Precognition",
-                    "value": "0",
+                    "level": "0",
                     "powers": ""
                 }
             ]
