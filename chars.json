@@ -1,7 +1,7 @@
 {
     "chars": [
         {
-            "name": "Yazmin Sabra",
+            "name": "Yazmin Sabra, Command",
             "photo": "yasmin.png",
             "attributes": "S: 14(+1), D: 13(+0), C: 16(+1), I: 11(+0), W: 14(+1), C: 18(+2)",
             "background": "Noble",
@@ -11,7 +11,7 @@
             "psionics": "-"
         },
         {
-            "name": "Xavier Holt",
+            "name": "Xavier Holt, Medical",
             "photo": "xavier.png",
             "attributes": "S: 12(+0), D: 13(+0), C: 15(+1), I: 15(+1), W: 18(+2), C: 12(+0)",
             "background": "Physician",
@@ -21,7 +21,7 @@
             "psionics": "Effort: 3, Biopsionics-1 []"
         },
         {
-            "name": "Katherine Elizabeth Quatermass",
+            "name": "Katherine Elizabeth Quatermass, PSI Corps",
             "photo": "kat.png",
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
             "background": "Pilot",
