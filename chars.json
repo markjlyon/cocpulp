@@ -18,7 +18,7 @@
             "char_class": "Psychic",
             "foci": "UNDETERMINED",
             "skills": "Heal-0, Know-0",
-            "psionics": "Effort: 3, Biopsionics-1 []"
+            "psionics": "Effort: 3, Biopsionics-2 [Psychic Succor-1, Mastered Succor-1]"
         },
         {
             "name": "Katherine Elizabeth Quatermass, PSI Corps",
@@ -28,7 +28,7 @@
             "char_class": "Psychic",
             "foci": "Pyschic Training",
             "skills": "Know-0, Notice-0, Pilot-0, Shoot-1",
-            "psionics": "Effort: 4, Telekinetics-1 [Telekinetic Armory-1], Telepathy-0 []"
+            "psionics": "Effort: 4, Telekinetics-1 [Telekinetic Manipulation-1, Telekinetic Armory-1], Telepathic Contact-0 []"
         }
     ]
 }
