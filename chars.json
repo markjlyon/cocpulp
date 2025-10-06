@@ -3,7 +3,7 @@
         {
             "name": "Yazmin Sabra",
             "photo": "yasmin.png",
-            "branch": "Command",
+            "branch": "COMMAND",
             "attributes": "S: 14(+1), D: 13(+0), C: 16(+1), I: 11(+0), W: 14(+1), C: 18(+2)",
             "background": "Noble",
             "char_class": "Expert",
@@ -14,7 +14,7 @@
         {
             "name": "Xavier Holt",
             "photo": "xavier.png",
-            "branch": "Medical",
+            "branch": "MEDICAL",
             "attributes": "S: 12(+0), D: 13(+0), C: 15(+1), I: 15(+1), W: 18(+2), C: 12(+0)",
             "background": "Physician",
             "char_class": "Psychic",
@@ -25,7 +25,7 @@
         {
             "name": "Katherine Elizabeth Quatermass",
             "photo": "kat.png",
-            "branch": "PSI Corps",
+            "branch": "PSI CORPS",
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
             "background": "Pilot",
             "char_class": "Psychic",
