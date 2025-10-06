@@ -20,28 +20,28 @@
             "skills": "Heal-0, Know-0",
             "psionics": [
                 {
-                    "name" : "Effort",
-                    "level": "3",
-                    "powers": ""
-                },
-                {
-                    "name" : "Biopsionics",
-                    "level": "1",
+                    "effort" : "3",
                     "powers": [
                         {
-                            "name": "Psychic Surror",
-                            "level": "1"
+                            "power": "Biopsionics",
+                            "level": "1",
+                            "techniques": [
+                                {
+                                    "name": "Psychic Surror",
+                                    "level": "1"
+                                },
+                                {
+                                    "name": "Mastered Succor",
+                                    "level": "1"
+                                }
+                            ]
                         },
                         {
-                            "name": "Mastered Succor",
-                            "level": "1"
+                            "power": "Precognition",
+                            "level": "0",
+                            "techniques": []
                         }
                     ]
-                },
-                {
-                    "name" : "Precognition",
-                    "level": "0",
-                    "powers": ""
                 }
             ]
         },
