@@ -18,7 +18,32 @@
             "char_class": "Psychic",
             "foci": "UNDETERMINED",
             "skills": "Heal-0, Know-0",
-            "psionics": "Effort: 3, Biopsionics-2 [Psychic Succor-1, Mastered Succor-1]"
+            "psionics": [
+                {
+                    "name" : "Effort",
+                    "value": "3",
+                    "powers": ""
+                },
+                {
+                    "name" : "Biopsionics",
+                    "value": "1",
+                    "powers": [
+                        {
+                            "name": "Psychic Surror",
+                            "value": "1"
+                        },
+                        {
+                            "name": "Mastered Succor",
+                            "value": "1"
+                        }
+                    ]
+                },
+                {
+                    "name" : "Precognition",
+                    "value": "0",
+                    "powers": ""
+                }
+            ]
         },
         {
             "name": "Katherine Elizabeth Quatermass, PSI Corps",
