@@ -37,10 +37,10 @@
             "name": "Jared Syn",
             "photo": "green.png",
             "branch": "SCIENCE",
-            "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 17(+1), W: 17(+1), C: 12(+0)",
+            "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 18(+2), W: 17(+1), C: 12(+0)",
             "background": "Vagabond",
             "char_class": "Expert",
-            "foci": "Origin Augment, Specialist-1",
+            "foci": "Origin Augment (Int), Specialist-1",
             "skills": "Survival-1",
             "psionics": []
         }
