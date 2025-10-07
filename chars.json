@@ -18,9 +18,9 @@
             "attributes": "S: 12(+0), D: 13(+0), C: 15(+1), I: 15(+1), W: 18(+2), C: 12(+0)",
             "background": "Physician",
             "char_class": "Psychic",
-            "foci": "UNDETERMINED",
+            "foci": "Pyschic Training-1 (Precognition)",
             "skills": "Heal-0, Know-0",
-            "psionics": "Effort: 4, Psychic Succor-1 [Mastered Succor-1]"
+            "psionics": "Effort: 5, Psychic Succor-1 [Mastered Succor-1], Oracle-0 []"
         },
         {
             "name": "Katherine Elizabeth Quatermass",
@@ -34,13 +34,13 @@
             "psionics": "Effort: 4, Telekinetic Manipulation-1 [Telekinetic Armory-1], Personal Apportation-0 []"
         },
         {
-            "name": "Homeless Guy",
+            "name": "Jared Syn",
             "photo": "green.png",
             "branch": "SCIENCE",
             "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 17(+1), W: 17(+1), C: 12(+0)",
-            "background": "Vagrant",
+            "background": "Vagabond",
             "char_class": "Expert",
-            "foci": "Specialist-2",
+            "foci": "Origin Augment, Specialist-1",
             "skills": "Survival-1",
             "psionics": []
         }
