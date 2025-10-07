@@ -7,7 +7,7 @@
             "attributes": "S: 14(+1), D: 13(+0), C: 16(+1), I: 11(+0), W: 14(+1), C: 18(+2)",
             "background": "Noble",
             "char_class": "Expert",
-            "foci": "Origin - Zendai, Star Captain",
+            "foci": "Origin - Zendai, Star Captain-1",
             "skills": "Lead-1, Talk-0",
             "psionics": []
         },
@@ -29,7 +29,7 @@
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
             "background": "Pilot",
             "char_class": "Psychic",
-            "foci": "Pyschic Training (Teleportation)",
+            "foci": "Pyschic Training-1 (Teleportation)",
             "skills": "Know-0, Notice-0, Pilot-0, Shoot-1",
             "psionics": "Effort: 4, Telekinetic Manipulation-1 [Telekinetic Armory-1], Personal Apportation-0 []"
         },
