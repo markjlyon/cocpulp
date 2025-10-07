@@ -32,6 +32,17 @@
             "foci": "Pyschic Training (Teleportation)",
             "skills": "Know-0, Notice-0, Pilot-0, Shoot-1",
             "psionics": "Effort: 4, Telekinetic Manipulation-1 [Telekinetic Armory-1], Personal Apportation-0 []"
+        },
+        {
+            "name": "David Pierce",
+            "photo": "green.png",
+            "branch": "SCIENCE",
+            "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 17(+1), W: 17(+1), C: 12(+0)",
+            "background": "Vagrant",
+            "char_class": "Expert",
+            "foci": "Specialist-2",
+            "skills": "Know-1",
+            "psionics": []
         }
     ]
 }
