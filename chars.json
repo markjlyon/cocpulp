@@ -3,7 +3,7 @@
         {
             "name": "Yazmin Sabra",
             "photo": "yasmin.png",
-            "branch": "COMMAND",
+            "branch": "COMMAND - Commander",
             "attributes": "S: 14(+1), D: 13(+0), C: 16(+1), I: 11(+0), W: 14(+1), C: 18(+2)",
             "background": "Noble",
             "char_class": "Expert",
@@ -15,7 +15,7 @@
         {
             "name": "Xavier Holt",
             "photo": "xavier.png",
-            "branch": "MEDICAL",
+            "branch": "MEDICAL - Chief Medical Officer",
             "attributes": "S: 12(+0), D: 13(+0), C: 15(+1), I: 15(+1), W: 18(+2), C: 12(+0)",
             "background": "Physician",
             "char_class": "Psychic",
@@ -27,19 +27,19 @@
         {
             "name": "Katherine Elizabeth Quatermass",
             "photo": "kat.png",
-            "branch": "SECURITY",
+            "branch": "SECURITY - Chief Tactical Officer",
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
-            "background": "Pilot",
+            "background": "Soldier",
             "char_class": "Warrior",
-            "foci": "Alert-1, Gunslinger-1",
-            "skills": "Know-0, Notice-0, Pilot-0, Shoot-1",
+            "foci": "Alert-2",
+            "skills": "Know-0 (Bonus), Punch-0 (Soldier), Notice-0 (Alert), Shoot-1 (Soldierx2)",
             "psionics": "",
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + Warrior-1)"
         },
         {
             "name": "Jared Syn",
             "photo": "green.png",
-            "branch": "SCIENCE",
+            "branch": "SCIENCE - Chief Science Officer",
             "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 18(+2), W: 17(+1), C: 12(+0)",
             "background": "Vagabond",
             "char_class": "Expert",
