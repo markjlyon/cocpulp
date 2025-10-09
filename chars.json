@@ -32,7 +32,7 @@
             "background": "Soldier",
             "char_class": "Warrior",
             "foci": "Alert-2",
-            "skills": "Know-0 (Bonus), Punch-0 (Soldier), Notice-0 (Alert), Shoot-1 (Soldierx2)",
+            "skills": "Exert-0 (Bonus), Punch-0 (Soldier), Notice-0 (Alert), Shoot-1 (Soldierx2)",
             "psionics": "",
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + Warrior-1)"
         },
