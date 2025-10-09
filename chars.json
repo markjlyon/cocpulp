@@ -20,18 +20,20 @@
             "char_class": "Psychic",
             "foci": "Pyschic Training-1 (Precognition)",
             "skills": "Heal-0, Know-0",
-            "psionics": "Effort: 5, Psychic Succor-1 [Mastered Succor-1], Oracle-0 []"
+            "psionics": "Effort: 5, Psychic Succor-1 [Mastered Succor-1], Oracle-0 []",
+            "notes": ""
         },
         {
             "name": "Katherine Elizabeth Quatermass",
             "photo": "kat.png",
-            "branch": "HELM",
+            "branch": "SECURITY",
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
             "background": "Pilot",
-            "char_class": "Expert",
-            "foci": "Specialist-1 (Pilot), Specialist-1 (Program)",
-            "skills": "Notice-0, Pilot-1, Program-1,Shoot-0",
-            "psionics": ""
+            "char_class": "Warrior",
+            "foci": "Alert-2",
+            "skills": "Notice-0, Pilot-0, Shoot-1",
+            "psionics": "",
+            "notes": "Gunnery +4 (Shoot-1 + Dex+2 + Warrior+1)"
         },
         {
             "name": "Jared Syn",
@@ -42,7 +44,8 @@
             "char_class": "Expert",
             "foci": "Origin Augment (Int), Specialist-1",
             "skills": "Survival-1",
-            "psionics": []
+            "psionics": [],
+            "notes": ""
         }
     ]
 }
