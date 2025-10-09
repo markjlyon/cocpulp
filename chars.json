@@ -31,10 +31,10 @@
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
             "background": "Pilot",
             "char_class": "Warrior",
-            "foci": "Alert-2",
-            "skills": "Notice-0, Pilot-0, Shoot-1",
+            "foci": "Alert-1, Gunslinger-1",
+            "skills": "Know-0, Notice-0, Pilot-0, Shoot-1",
             "psionics": "",
-            "notes": "Gunnery +4 (Shoot-1 + Dex+2 + Warrior+1)"
+            "notes": "Gunnery +4 (Shoot-1 + Dex-2 + Warrior-1)"
         },
         {
             "name": "Jared Syn",
