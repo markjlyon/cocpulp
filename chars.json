@@ -32,8 +32,8 @@
             "background": "Soldier",
             "char_class": "Psychic",
             "foci": "Psychic Training (Teleportation)",
-            "skills": "Exert-0 (Bonus), Pilot-0 (Pilot), Notice-0 (Alert), Shoot-1 (Pilotx2)",
-            "psionics": "Telekinesis-1 (Telekinetic Armory-1), Telepoartation-1 ()",
+            "skills": "Notice-0 (Bonus), Shoot-1 (Soldierx2), Stab-0 (Soldier)",
+            "psionics": "Telekinetic Manipulation-1 (Telekinetic Armory-1), Personal Apportation-1 ()",
             "notes": "Gunnery +3 (Shoot-1 + Dex-2)"
         },
         {
