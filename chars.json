@@ -28,7 +28,7 @@
             "name": "Katherine Elizabeth Quatermass",
             "photo": "kat.png",
             "branch": "SECURITY - Chief Tactical Officer",
-            "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
+            "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0), HP:9",
             "background": "Soldier",
             "char_class": "Warrior",
             "foci": "Alert-1, Gunslinger-1",
