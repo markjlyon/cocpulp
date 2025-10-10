@@ -31,8 +31,8 @@
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0), HP:9",
             "background": "Soldier",
             "char_class": "Warrior",
-            "foci": "Alert-1, Gunslinger-1",
-            "skills": "Exert-0, Notice-0 (Bonus), Punch-1 (Soldierx2), Shoot-1 (Gunslinger, Soldier)",
+            "foci": "Close Combatant-1, Gunslinger-1",
+            "skills": "Notice-0 (Bonus), Stab-0 (Close Combatant-1), Punch-1 (Soldierx2), Shoot-1 (Gunslinger, Soldier)",
             "psionics": "",
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + Level-1)"
         },
