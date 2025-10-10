@@ -30,11 +30,11 @@
             "branch": "SECURITY - Chief Tactical Officer",
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0)",
             "background": "Soldier",
-            "char_class": "Psychic",
-            "foci": "Psychic Training (Teleportation)",
-            "skills": "Notice-0 (Bonus), Shoot-1 (Soldierx2), Stab-0 (Soldier)",
-            "psionics": "Effort-4, Telekinetic Manipulation-1 (Telekinetic Armory-1), Personal Apportation-1 ()",
-            "notes": "Gunnery +3 (Shoot-1 + Dex-2)"
+            "char_class": "Warrior",
+            "foci": "Alert-1, Gunslinger-1",
+            "skills": "Exert-0, Notice-0 (Bonus), Punch-1 (Soldierx2), Shoot-1 (Gunslinger, Soldier)",
+            "psionics": "",
+            "notes": "Gunnery +4 (Shoot-1 + Dex-2 + Level-1)"
         },
         {
             "name": "Jared Syn",
