@@ -338,7 +338,9 @@ SWN, pg 48
 
 # REFERENCES (for Inspiration)
 
-Star Trek
+Star Trek: DS9
+
+Star Trek: Voyager
 
 Battlestar Galactica 
 
