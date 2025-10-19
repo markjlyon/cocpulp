@@ -37,9 +37,9 @@
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + 1/2Level-0 + Warrior-1)"
         },
         {
-            "name": "Jared Syn",
+            "name": "Sun Su",
             "photo": "green.png",
-            "branch": "SCIENCE - Chief Science Officer",
+            "branch": "Executive Officer",
             "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 18(+2), W: 17(+1), C: 12(+0)",
             "background": "Vagabond",
             "char_class": "Expert",
