@@ -35,18 +35,6 @@
             "skills": "Program-0, Notice-0, Punch-1, Shoot-1",
             "psionics": "Effort-5, Telekinetic Manipulation-1 (Telekinetic Armory-1)",
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + 1/2Level-0 + Warrior-1)"
-        },
-        {
-            "name": "Sun Su",
-            "photo": "sunsu.png",
-            "branch": "Executive Officer",
-            "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 18(+2), W: 17(+1), C: 12(+0)",
-            "background": "Vagabond",
-            "char_class": "Expert",
-            "foci": "Origin Augment (Int), Specialist-1",
-            "skills": "Survival-1",
-            "psionics": "",
-            "notes": ""
         }
     ]
 }
