@@ -3,15 +3,73 @@
         {
             "name": "Sun Su",
             "photo": "sunsu.png",
-            "posting": "XO",
             "branch": "Command",
+            "rank": "Ensign",
+            "title": "XO",
             "notes": ""
         },
         {
-            "name": "Jared Syn",
+            "name": "Place Holder",
             "photo": "green.png",
-            "posting": "Yeoman",
-            "branch": "Operations",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
+            "notes": ""
+        },
+        {
+            "name": "Place Holder",
+            "photo": "green.png",
+            "branch": "Branch",
+            "rank": "Rank",
+            "title": "Title",
             "notes": ""
         }
     ]
