@@ -6,6 +6,13 @@
             "posting": "XO",
             "branch": "Command",
             "notes": ""
+        },
+        {
+            "name": "Jared Syn",
+            "photo": "green.png",
+            "posting": "Yeoman",
+            "branch": "Operations",
+            "notes": ""
         }
     ]
 }
