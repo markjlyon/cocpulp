@@ -26,5 +26,11 @@ James Ocean, David's character.
 
 Lt Jr Grey Room Girl - Intelligence Officer
 
-"Communion" is what Solar System 2 calls the whisper union.
+## Kayleth (The First Calm) Prime - 
+
+The Archive sits outside the system actively scanning
+
+They give us coordinates for the other Lethari (planet Ossun) peoples.
+
+The Zerethy Communion is an empire.
 
