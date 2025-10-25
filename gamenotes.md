@@ -24,4 +24,3 @@ Sun Su - Executive Officer
 2. Exterminate breeder whispers
 3. Training of survivors for use of their own technology
 
-
