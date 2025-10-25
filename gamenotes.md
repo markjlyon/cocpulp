@@ -24,3 +24,5 @@ James Ocean, David's character.
 2. Exterminate breeder whispers
 3. Training of survivors for use of their own technology
 
+Lt Jr Grey Room Girl - Intelligence Officer
+
