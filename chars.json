@@ -35,7 +35,7 @@
             "background": "Soldier",
             "char_class": "Adventurer (Psychic, Warrior)",
             "foci": "Alert-1, Pyschic Training-1 (Telekinesis)",
-            "skills": "Program-0, Notice-1, Punch-0, Shoot-1",
+            "skills": "Program-0, Notice-0, Punch-0, Shoot-1. Stab-0",
             "psionics": "Effort-5, Telekinetic Manipulation-1 (Telekinetic Armory-1)",
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + 1/2Level-0 + Warrior-1)"
         }
