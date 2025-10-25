@@ -9,7 +9,7 @@ James Ocean, David's character.
 ## Meeting with Department Heads
 
 -Damien Wallace - Security Personnel
--Brianna Mills - 
+-Brianna Mills - Sister of Toby Mills
 -Toby Mills - Chief of Diplomacy
 -Lorenzo Campos - Chief Engineer
 -Page - Kzin - Chief Helm Officer
@@ -25,4 +25,6 @@ James Ocean, David's character.
 3. Training of survivors for use of their own technology
 
 Lt Jr Grey Room Girl - Intelligence Officer
+
+"Communion" is what Solar System 2 calls the whisper union.
 
