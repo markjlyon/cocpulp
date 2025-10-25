@@ -20,3 +20,8 @@ Tiara Yoriko - PSI Corp
 Benedict Asher - Chief of Science Operations
 Sun Su - Executive Officer
 
+1. Prevent further parasitic infection
+2. Exterminate breeder whispers
+3. Training of survivors for use of their own technology
+
+
