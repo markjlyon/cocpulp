@@ -21,7 +21,7 @@
             "attributes": "S: 12(+0), D: 13(+0), C: 15(+1), I: 15(+1), W: 18(+2), C: 12(+0)",
             "background": "Physician",
             "char_class": "Psychic",
-            "foci": "Pyschic Training-1 (Precognition)",
+            "foci": "Psychic Training-1 (Precognition)",
             "skills": "Heal-0, Know-0",
             "psionics": "Effort-5, Psychic Succor-1 [Mastered Succor-1], Oracle-0 []",
             "notes": ""
@@ -34,9 +34,9 @@
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 13(+0), W: 17(+1), C: 13(+0), HP:9",
             "background": "Soldier",
             "char_class": "Adventurer (Psychic, Warrior)",
-            "foci": "Alert-1, Pyschic Training-1 (Telekinesis)",
+            "foci": "Alert-1, Psychic Training-1 (Telekinesis)",
             "skills": "Program-0, Notice-0, Shoot-1, Stab-0",
-            "psionics": "Effort-5, Telekinetic Manipulation-1 (Telekinetic Armory-1)",
+            "psionics": "Effort-5, Telekinetic Manipulation-1 [Telekinetic Armory-1]",
             "notes": "Gunnery +4 (Shoot-1 + Dex-2 + 1/2Level-0 + Warrior-1)"
         }
     ]
