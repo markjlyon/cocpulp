@@ -60,6 +60,83 @@ Mods: Eternal Reactor (Fix-2)
 
 ![USS Eventide CNC-18701/G](https://farfleet.com/coc/Eventide.png)
 
+## Crewmembers Dossiers
+
+### Command
+Yazmin Sabra (Joey); 
+Sun Su; 
+Dorian Kade; 
+Brynn Calder; 
+Silas Trenholm; 
+Viktor Havel
+
+### Diplomatic
+Toby Mills (Genetic Augment); 
+Aria Solenne; 
+Rowan Crestfall; 
+Selene Voss
+
+### Engineering
+Lorenzo Campos; 
+Wild goose "Chase" (Kzinti); 
+Nira Halden; 
+Nolan Stray; 
+Matthias Dorn
+
+### Helm
+On the same "Page"; 
+Maren Locke; 
+Rhea Dalton
+
+### Navigation
+Hana Revak; 
+Owen Marek
+
+### Medical
+Xavier Holt (Luke); 
+Kiera Haldren; 
+Jenna Corval; 
+Lira Quinn
+
+### Science
+Benedikt Ashur (Zendai); 
+Breanna Mills (Genetic Augment); 
+Elias Varron; 
+Cassian Muir; 
+Anneliese Brandt (Heavy Worlder)
+
+### Operations
+James Ocean; 
+Tessa Marwood; 
+Lucan Pryde; 
+Amaya Ren
+
+### Security
+Kat Quinn (Mark); 
+Jalen Strath; 
+Jarek Thorne; 
+Selka Dray; 
+Toren Vale; 
+Damon Wallace; 
+Gerhardt Kruger (Heavy Worlder); 
+Helga Reinhardt (Heavy Worlder)
+
+### PsiCorps
+Tiara Yoriko; 
+Iris Vale; 
+Damon Rourke; 
+Valeen Sorya
+
+### Section Grey
+CLASSIFIED
+
+### On Ice...
+4 (Heavy Worlders); 
+4 (Genetic Augments);
+1 (Kzinti);
+2 (Zendai); 
+139 (Human)
+
 ---
 
 # RULES
