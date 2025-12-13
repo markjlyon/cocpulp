@@ -96,14 +96,14 @@ Owen Marek
 Xavier Holt (Luke); 
 Kiera Haldren; 
 Jenna Corval; 
-Lira Quinn
+Lira Quinn (Psychologist)
 
 ### Science
 Benedikt Ashur (Zendai); 
 Breanna Mills (Genetic Augment); 
 Elias Varron; 
 Cassian Muir; 
-Anneliese Brandt (Heavy Worlder)
+Anneliese Brandt* (Heavy Worlder)
 
 ### Operations
 James Ocean; 
@@ -118,7 +118,7 @@ Jarek Thorne;
 Selka Dray; 
 Toren Vale; 
 Damon Wallace; 
-Gerhardt Kruger (Heavy Worlder); 
+Gerhardt Kruger* (Heavy Worlder); 
 Helga Reinhardt (Heavy Worlder)
 
 ### PsiCorps
@@ -128,7 +128,7 @@ Damon Rourke;
 Valeen Sorya
 
 ### Section Grey
-CLASSIFIED
+CLASSIFIED (Corin)
 
 ### On Ice...
 4 (Heavy Worlders); 
