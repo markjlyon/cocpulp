@@ -2,7 +2,8 @@
     "npcs": {
         "branches": [
             {
-                "Command": [
+                "branch": "Command",
+                "npcs": [
                     {
                         "name": "Sun Su",
                         "photo": "sunsu.png",
