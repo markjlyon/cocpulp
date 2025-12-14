@@ -11,6 +11,22 @@
                         "rank": "Cadet",
                         "title": "XO",
                         "notes": ""
+                    },
+                    {
+                        "name": "Dorian Kade",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "2nd Off",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Brynn Calder",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "3rd Off",
+                        "notes": ""
                     }
                 ]
             }
