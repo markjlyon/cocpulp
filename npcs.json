@@ -1,76 +1,42 @@
 {
     "npcs": [
-        {
-            "name": "Sun Su",
-            "photo": "sunsu.png",
-            "branch": "COMMAND",
-            "rank": "Cadet",
-            "title": "XO",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        },
-        {
-            "name": "Place Holder",
-            "photo": "green.png",
-            "branch": "Branch",
-            "rank": "Rank",
-            "title": "Title",
-            "notes": ""
-        }
+        "branches": [
+            {
+                "Command": [
+                    {
+                        "name": "Sun Su",
+                        "photo": "sunsu.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "XO",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Dorian Kade",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "2nd",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Brynn Calder",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "3rd",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Silas Trenholm",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    }
+                ]
+            }
+        ]
     ]
 }
