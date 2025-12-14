@@ -3,7 +3,7 @@
         "branches": [
             {
                 "branch": "Command",
-                "npcs": [
+                "npc_list": [
                     {
                         "name": "Sun Su",
                         "photo": "sunsu.png",
