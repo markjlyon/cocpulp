@@ -113,6 +113,32 @@
                         "notes": ""
                     }
                 ]
+            },
+            {
+                "branch": "NAVIGATION BRANCH",
+                "npc_list": [
+                    {
+                        "name": "On the same 'Page'",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "Chief",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Maren Locke",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Rhea Dalton",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    }
+                ]
             }
         ]
     }
