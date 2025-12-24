@@ -322,6 +322,13 @@
             {
                 "branch": "SECTION GREY",
                 "npc_list": [
+                    {
+                        "name": "CLASSIFIED",
+                        "photo": "green.png",
+                        "rank": "CLASSIFIED",
+                        "title": "CLASSIFIED",
+                        "notes": ""
+                    }
                 ]
             }
         ]
