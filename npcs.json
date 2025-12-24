@@ -205,6 +205,32 @@
                         "notes": "Heavy Worlder"
                     }
                 ]
+            },
+            {
+                "branch": "OPERATIONS BRANCH",
+                "npc_list": [
+                    {
+                        "name": "Tessa Marwood",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "Chief",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Lucan Pryde",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Amaya Ren",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    }
+                ]
             }
         ]
     }
