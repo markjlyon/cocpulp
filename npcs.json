@@ -45,6 +45,43 @@
                         "notes": ""
                     }
                 ]
+            },
+            {
+                "branch": "Diplomatic",
+                "npc_list": [
+                    {
+                        "name": "Toby Mills",
+                        "photo": "green.png",
+                        "branch": "DIPLOMATIC",
+                        "rank": "Cadet",
+                        "title": "Chief",
+                        "notes": "Genetic Augment"
+                    },
+                    {
+                        "name": "Aria Solenne",
+                        "photo": "green.png",
+                        "branch": "DIPLOMATIC",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Rowan Crestfall",
+                        "photo": "green.png",
+                        "branch": "DIPLOMATIC",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Selene Voss",
+                        "photo": "green.png",
+                        "branch": "DIPLOMATIC",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                ]
             }
         ]
     }
