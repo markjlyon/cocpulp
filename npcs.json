@@ -318,6 +318,11 @@
                         "notes": "Heavy Worlder"
                     }
                 ]
+            },
+            {
+                "branch": "SECTION GREY",
+                "npc_list": [
+                ]
             }
         ]
     }
