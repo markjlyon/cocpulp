@@ -139,6 +139,32 @@
                         "notes": ""
                     }
                 ]
+            },
+            {
+                "branch": "MEDICAL BRANCH",
+                "npc_list": [
+                    {
+                        "name": "Kiera Haldren",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Jenna Corval",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Lira Quinn",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Psychologist"
+                    }
+                ]
             }
         ]
     }
