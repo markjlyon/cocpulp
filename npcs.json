@@ -73,6 +73,46 @@
                         "notes": ""
                     }
                 ]
+            },
+            {
+                "branch": "ENGINEERING CORPS",
+                "npc_list": [
+                    {
+                        "name": "Lorenzo Campos",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "Chief",
+                        "notes": "Lorenzo Campos"
+                    },
+                    {
+                        "name": "Wild Goose 'Chase'",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Kzinti"
+                    },
+                    {
+                        "name": "Nira Halden",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Nolan Stray",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Matthias Dorn",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    }
+                ]
             }
         ]
     }
