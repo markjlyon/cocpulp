@@ -115,6 +115,32 @@
                 ]
             },
             {
+                "branch": "MEDICAL BRANCH",
+                "npc_list": [
+                    {
+                        "name": "Kiera Haldren",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Jenna Corval",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Lira Quinn",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Psychologist"
+                    }
+                ]
+            },
+            {
                 "branch": "NAVIGATION BRANCH",
                 "npc_list": [
                     {
@@ -141,28 +167,28 @@
                 ]
             },
             {
-                "branch": "MEDICAL BRANCH",
+                "branch": "OPERATIONS BRANCH",
                 "npc_list": [
                     {
-                        "name": "Kiera Haldren",
+                        "name": "Tessa Marwood",
                         "photo": "green.png",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
-                        "name": "Jenna Corval",
+                        "name": "Lucan Pryde",
                         "photo": "green.png",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
-                        "name": "Lira Quinn",
+                        "name": "Amaya Ren",
                         "photo": "green.png",
                         "rank": "Cadet",
                         "title": "",
-                        "notes": "Psychologist"
+                        "notes": ""
                     }
                 ]
             },
@@ -207,28 +233,56 @@
                 ]
             },
             {
-                "branch": "OPERATIONS BRANCH",
+                "branch": "SECURITY BRANCH",
                 "npc_list": [
                     {
-                        "name": "Tessa Marwood",
-                        "photo": "green.png",
-                        "rank": "Cadet",
-                        "title": "Chief",
-                        "notes": ""
-                    },
-                    {
-                        "name": "Lucan Pryde",
+                        "name": "Jalen Strath",
                         "photo": "green.png",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
-                        "name": "Amaya Ren",
+                        "name": "Jarek Thorne",
                         "photo": "green.png",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
+                    },
+                    {
+                        "name": "Selka Dray",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Toren Vale",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Damon Wallace",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Gerhardt Kruger",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Heavy Worlder"
+                    },
+                    {
+                        "name": "Helga Reinhardt",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Heavy Worlder"
                     }
                 ]
             }
