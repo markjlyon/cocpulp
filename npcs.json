@@ -165,6 +165,46 @@
                         "notes": "Psychologist"
                     }
                 ]
+            },
+            {
+                "branch": "SCIENCE BRANCH",
+                "npc_list": [
+                    {
+                        "name": "Benedikt Ashur",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "Chief",
+                        "notes": "Zendai"
+                    },
+                    {
+                        "name": "Breanna Mills",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Genetic Augment"
+                    },
+                    {
+                        "name": "Elias Varron",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Psychologist"
+                    },
+                    {
+                        "name": "Cassian Muir",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Psychologist"
+                    },
+                    {
+                        "name": "Anneliese Brandt",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": "Heavy Worlder"
+                    }
+                ]
             }
         ]
     }
