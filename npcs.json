@@ -193,6 +193,39 @@
                 ]
             },
             {
+                "branch": "PSI CORPS",
+                "npc_list": [
+                    {
+                        "name": "Tiara Yoriko",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Iris Vale",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Damon Rourke",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Valeen Sorya",
+                        "photo": "green.png",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    }
+                ]
+            },
+            {
                 "branch": "SCIENCES BRANCH",
                 "npc_list": [
                     {
