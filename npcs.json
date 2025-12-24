@@ -27,6 +27,22 @@
                         "rank": "Cadet",
                         "title": "3rd Off",
                         "notes": ""
+                    },
+                    {
+                        "name": "Silas Trenholm",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
+                    },
+                    {
+                        "name": "Viktor Havel",
+                        "photo": "green.png",
+                        "branch": "COMMAND",
+                        "rank": "Cadet",
+                        "title": "",
+                        "notes": ""
                     }
                 ]
             }
