@@ -2,12 +2,11 @@
     "npcs": {
         "branches": [
             {
-                "branch": "Command",
+                "branch": "COMMAND BRANCH",
                 "npc_list": [
                     {
                         "name": "Sun Su",
                         "photo": "sunsu.png",
-                        "branch": "COMMAND",
                         "rank": "Cadet",
                         "title": "XO",
                         "notes": ""
@@ -15,7 +14,6 @@
                     {
                         "name": "Dorian Kade",
                         "photo": "green.png",
-                        "branch": "COMMAND",
                         "rank": "Cadet",
                         "title": "2nd Off",
                         "notes": ""
@@ -23,7 +21,6 @@
                     {
                         "name": "Brynn Calder",
                         "photo": "green.png",
-                        "branch": "COMMAND",
                         "rank": "Cadet",
                         "title": "3rd Off",
                         "notes": ""
@@ -31,7 +28,6 @@
                     {
                         "name": "Silas Trenholm",
                         "photo": "green.png",
-                        "branch": "COMMAND",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -39,7 +35,6 @@
                     {
                         "name": "Viktor Havel",
                         "photo": "green.png",
-                        "branch": "COMMAND",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -47,12 +42,11 @@
                 ]
             },
             {
-                "branch": "Diplomatic",
+                "branch": "DIPLOMATIC CORPS",
                 "npc_list": [
                     {
                         "name": "Toby Mills",
                         "photo": "green.png",
-                        "branch": "DIPLOMATIC",
                         "rank": "Cadet",
                         "title": "Chief",
                         "notes": "Genetic Augment"
@@ -60,7 +54,6 @@
                     {
                         "name": "Aria Solenne",
                         "photo": "green.png",
-                        "branch": "DIPLOMATIC",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -68,7 +61,6 @@
                     {
                         "name": "Rowan Crestfall",
                         "photo": "green.png",
-                        "branch": "DIPLOMATIC",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -76,7 +68,6 @@
                     {
                         "name": "Selene Voss",
                         "photo": "green.png",
-                        "branch": "DIPLOMATIC",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
