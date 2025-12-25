@@ -46,7 +46,7 @@
                 "npc_list": [
                     {
                         "name": "Toby Mills",
-                        "photo": "green.png",
+                        "photo": "TobyMills.png",
                         "rank": "Cadet",
                         "title": "Chief",
                         "notes": "Genetic Augment"
