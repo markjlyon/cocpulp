@@ -79,7 +79,7 @@
                 "npc_list": [
                     {
                         "name": "Lorenzo Campos",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "Chief",
                         "notes": ""
@@ -93,21 +93,21 @@
                     },
                     {
                         "name": "Nira Halden",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Nolan Stray",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Matthias Dorn",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -119,21 +119,21 @@
                 "npc_list": [
                     {
                         "name": "Kiera Haldren",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Jenna Corval",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Lira Quinn",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Psychologist"
@@ -152,14 +152,14 @@
                     },
                     {
                         "name": "Maren Locke",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Rhea Dalton",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -171,21 +171,21 @@
                 "npc_list": [
                     {
                         "name": "Tessa Marwood",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Lucan Pryde",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Amaya Ren",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -211,7 +211,7 @@
                     },
                     {
                         "name": "Damon Rourke",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
@@ -230,35 +230,35 @@
                 "npc_list": [
                     {
                         "name": "Benedikt Ashur",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "Chief",
                         "notes": "Zendai"
                     },
                     {
                         "name": "Breanna Mills",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Genetic Augment"
                     },
                     {
                         "name": "Elias Varron",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Psychologist"
                     },
                     {
                         "name": "Cassian Muir",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Psychologist"
                     },
                     {
                         "name": "Anneliese Brandt",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Heavy Worlder"
@@ -270,49 +270,49 @@
                 "npc_list": [
                     {
                         "name": "Jalen Strath",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Jarek Thorne",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Selka Dray",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Toren Vale",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Damon Wallace",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": ""
                     },
                     {
                         "name": "Gerhardt Kruger",
-                        "photo": "green.png",
+                        "photo": "male.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Heavy Worlder"
                     },
                     {
                         "name": "Helga Reinhardt",
-                        "photo": "green.png",
+                        "photo": "female.gif",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Heavy Worlder"
