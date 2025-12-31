@@ -86,7 +86,7 @@
                     },
                     {
                         "name": "Wild Goose 'Chase'",
-                        "photo": "green.png",
+                        "photo": "Chase.png",
                         "rank": "Cadet",
                         "title": "",
                         "notes": "Kzinti"
@@ -145,7 +145,7 @@
                 "npc_list": [
                     {
                         "name": "On the same 'Page'",
-                        "photo": "green.png",
+                        "photo": "Page.png",
                         "rank": "Cadet",
                         "title": "Chief",
                         "notes": ""
