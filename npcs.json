@@ -330,6 +330,18 @@
                         "notes": ""
                     }
                 ]
+            },
+            {
+                "branch": "CIVILIANS",
+                "npc_list": [
+                    {
+                        "name": "Zelvra",
+                        "photo": "Zelvra.png",
+                        "rank": "Civilian",
+                        "title": "Xeno-Ecology",
+                        "notes": ""
+                    }
+                ]
             }
         ]
     }
