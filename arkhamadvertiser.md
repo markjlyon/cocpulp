@@ -63,19 +63,31 @@ Mods: Eternal Reactor (Fix-2)
 ## Day Shift
 
 Command - Yazmin Sabra, Dorian Kade
+
 Security - Kat Quinn, Damon Wallace
+
 Engineering - Matthias Dorn, Nolan Stray
+
 Helm - Maren Locke
+
 Navigation - Hana Revak (12h) / Owen Marek (12h)
+
 Science - Annaleise Brandt, Cassian Muir
+
 Medical - Xavier Holt, Jenna Corval
+
 Diplomatic - Aria Solenne
+
 PsiCorps - Valeen Sorya
+
 Operations - James Ocean, Lucan Pryde
 
 # Shift Floater(s) Available
+
 Command - Viktor Havel
+
 Security - Jarek Thorne, Selka Dray, Toren Vale
+
 PsiCorps - Damon Roarke
 
 ---
