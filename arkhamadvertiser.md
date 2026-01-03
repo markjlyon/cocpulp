@@ -60,82 +60,23 @@ Mods: Eternal Reactor (Fix-2)
 
 ![USS Eventide CNC-18701/G](https://farfleet.com/coc/Eventide.png)
 
-## Crewmembers Dossiers
+## Day Shift
 
-### Command
-Yazmin Sabra (Joey); 
-Sun Su; 
-Dorian Kade; 
-Brynn Calder; 
-Silas Trenholm; 
-Viktor Havel
+Command - Yazmin Sabra, Dorian Kade
+Security - Kat Quinn, Damon Wallace
+Engineering - Matthias Dorn, Nolan Stray
+Helm - Maren Locke
+Navigation - Hana Revak (12h) / Owen Marek (12h)
+Science - Annaleise Brandt, Cassian Muir
+Medical - Xavier Holt, Jenna Corval
+Diplomatic - Aria Solenne
+PsiCorps - Valeen Sorya
+Operations - James Ocean, Lucan Pryde
 
-### Diplomatic
-Toby Mills (Genetic Augment); 
-Aria Solenne; 
-Rowan Crestfall; 
-Selene Voss
-
-### Engineering
-Lorenzo Campos; 
-Wild goose "Chase" (Kzinti); 
-Nira Halden; 
-Nolan Stray; 
-Matthias Dorn
-
-### Helm
-On the same "Page"; 
-Maren Locke; 
-Rhea Dalton
-
-### Navigation
-Hana Revak; 
-Owen Marek
-
-### Medical
-Xavier Holt (Luke); 
-Kiera Haldren; 
-Jenna Corval; 
-Lira Quinn (Psychologist)
-
-### Science
-Benedikt Ashur (Zendai); 
-Breanna Mills (Genetic Augment); 
-Elias Varron; 
-Cassian Muir; 
-Anneliese Brandt* (Heavy Worlder)
-
-### Operations
-James Ocean; 
-Tessa Marwood; 
-Lucan Pryde; 
-Amaya Ren
-
-### Security
-Kat Quinn (Mark); 
-Jalen Strath; 
-Jarek Thorne; 
-Selka Dray; 
-Toren Vale; 
-Damon Wallace; 
-Gerhardt Kruger* (Heavy Worlder); 
-Helga Reinhardt (Heavy Worlder)
-
-### PsiCorps
-Tiara Yoriko; 
-Iris Vale; 
-Damon Rourke; 
-Valeen Sorya
-
-### Section Grey
-CLASSIFIED (Corin)
-
-### On Ice...
-4 (Heavy Worlders); 
-4 (Genetic Augments);
-1 (Kzinti);
-2 (Zendai); 
-139 (Human)
+# Shift Floater(s) Available
+Command - Viktor Havel
+Security - Jarek Thorne, Selka Dray, Toren Vale
+PsiCorps - Damon Roarke
 
 ---
 
@@ -229,7 +170,17 @@ Strong Attribute: Choose either INT or CHA at character creation; that attribute
 
 Origin Skill: You are immune to psionic effects that target your mind (anything that would call for a Mental save or directly read/alter thoughts, emotions, memories, or senses). Such powers fail against you. Not covered: Physical psionics still work (telekinesis, pyro/teleportation, bio-heals that knit flesh, etc.).
 
-Drawbacks - USeful Immunity: You cannot be a Psychic or take Partial Psychic. Beneficial mind-targeting powers also don’t work on you (no telepathic comms, no biopsionic calm, etc.).
+Drawbacks - Useful Immunity: You cannot be a Psychic or take Partial Psychic. Beneficial mind-targeting powers also don’t work on you (no telepathic comms, no biopsionic calm, etc.).
+
+### Origin Foci: Lethari (Gamma Quadranant)
+
+The Lethari are a resilient, human-adjacent species descended from survivors of a planetary extinction event. Once enslaved and nearly consumed by parasitic entities known as Whisper Leeches, they fled aboard three colony vessels — Kaelith’s Promise, Lethar’s Flight, and Vel’Thara’s Mercy.
+
+Strong Attribute: Choose either CON or WIS at character creation; that attribute gains +1 (max +3 modifier).
+
+Environmental Native: Survive thin/toxic air up to 30 min per CON mod; half food/water/oxygen needs.
+
+Drawbacks - Emotional Dissonance: -1 to Connect, Talk, and Trade checks involving passion, persuasion, or deceit.
 
 ### Wired
 
