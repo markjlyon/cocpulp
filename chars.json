@@ -34,7 +34,7 @@
             "branch": "SECURITY - Chief Tactical Officer",
             "rank": "Ensign",
             "attributes": "S: 12(+0), D: 18(+2), C: 14(+1), I: 14(+1), W: 17(+1), C: 13(+0), HP:9",
-            "statistics": "HP:21, P: 12. E; 11, M: 11",
+            "statistics": "HP:21, P:12, E:11, M:11, S:1",
             "background": "Soldier",
             "char_class": "Adventurer (Psychic, Warrior)",
             "foci": "Alert-1, Psychic Training-2 (Telekinesis)",
@@ -43,16 +43,16 @@
             "notes": "Gunnery +5 (Shoot-1 + Dex-2 + 1/2Level-1 + Warrior-1)"
         },
         {
-            "name": "James Ocean",
+            "name": "James 'Saltwire' Ocean",
             "photo": "male.gif",
             "branch": "OPERATIONS - Chief Operational Officer",
             "rank": "Ensign",
-            "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 17(+1), W: 17(+1), C: 12(+0)",
-            "statistics": "HP:?, P: 14. E: 13. M: 13",
-            "background": "",
+            "attributes": "S: 10(+0), D: 14(+1), C: 11(+0), I: 18(+2), W: 17(+1), C: 12(+0)",
+            "statistics": "HP:8, P:14, E:13, M:12, S:3",
+            "background": "Criminal",
             "char_class": "Expert",
-            "foci": "?",
-            "skills": "?",
+            "foci": "Hacker-1, Specialist(Sneak)-1, Wired-1",
+            "skills": "Connect-0, Fix-1, Notice-0, Program-0, Punch-0, Sneak-1",
             "psionics": "",
             "notes": ""
         }
