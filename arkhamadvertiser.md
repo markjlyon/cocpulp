@@ -184,7 +184,7 @@ Origin Skill: You are immune to psionic effects that target your mind (anything 
 
 Drawbacks - Useful Immunity: You cannot be a Psychic or take Partial Psychic. Beneficial mind-targeting powers also don’t work on you (no telepathic comms, no biopsionic calm, etc.).
 
-### Origin Foci: Lethari (Gamma Quadranant)
+### Origin Foci: Lethari (Gamma Quadrant)
 
 The Lethari are a resilient, human-adjacent species descended from survivors of a planetary extinction event. Once enslaved and nearly consumed by parasitic entities known as Whisper Leeches, they fled aboard three colony vessels — Kaelith’s Promise, Lethar’s Flight, and Vel’Thara’s Mercy.
 
